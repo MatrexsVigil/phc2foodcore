@@ -1,0 +1,9 @@
+{
+		"replace": false,
+		"values": [
+			"#forge:ices/blueice",
+"#forge:ices/ice",
+"#forge:ices/packedice",
+"#forge:ices/snowball"
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:icecream"
+    },
+    {
+      "tag": "forge:cocoapowder"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:chocolateicecreamitem",
+	"count": 1}
+	
+}

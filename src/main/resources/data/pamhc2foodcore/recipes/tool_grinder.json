@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+"pattern": [
+    "   ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:brick"
+    },
+    "b": {
+      "tag" :"forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "pamhc2foodcore:grinderitem"
+  }
+	
+}

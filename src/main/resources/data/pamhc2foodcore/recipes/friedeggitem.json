@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:egg"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:friedeggitem",
+	"count": 1}
+	
+}

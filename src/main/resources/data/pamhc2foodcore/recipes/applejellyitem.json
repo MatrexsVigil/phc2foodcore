@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:crops/apple"
+    },
+    {
+      "tag": "forge:sugar"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:applejellyitem",
+	"count": 1}
+	
+}

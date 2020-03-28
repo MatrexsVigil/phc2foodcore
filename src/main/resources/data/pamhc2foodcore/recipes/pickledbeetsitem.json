@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:vinegar"
+    },
+    {
+      "tag": "forge:crops/beetroot"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:pickledbeetsitem",
+	"count": 1}
+	
+}

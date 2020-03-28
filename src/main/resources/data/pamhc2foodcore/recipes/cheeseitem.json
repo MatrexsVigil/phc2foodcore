@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "tag": "forge:salt"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:cheeseitem",
+	"count": 1}
+	
+}

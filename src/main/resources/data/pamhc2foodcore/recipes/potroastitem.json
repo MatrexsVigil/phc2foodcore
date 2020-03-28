@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:rawbeef"
+    },
+    {
+      "tag": "forge:crops/potato"
+    },
+    {
+      "tag": "forge:crops/carrot"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:potroastitem",
+	"count": 1}
+	
+}
