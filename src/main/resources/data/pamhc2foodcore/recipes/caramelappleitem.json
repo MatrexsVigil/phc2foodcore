@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:caramel"
+    },
+    {
+      "tag": "forge:crops/apple"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:caramelappleitem",
+	"count": 1}
+	
+}

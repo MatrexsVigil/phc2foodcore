@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_grinder"
+    },
+    {
+      "tag": "forge:flour_plants"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:flouritem",
+	"count": 1}
+	
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:water"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:saltitem",
+	"count": 1}
+	
+}

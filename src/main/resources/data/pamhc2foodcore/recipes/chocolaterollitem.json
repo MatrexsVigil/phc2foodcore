@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:cocoapowder"
+    },
+    {
+      "tag": "forge:cream"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:chocolaterollitem",
+	"count": 1}
+	
+}

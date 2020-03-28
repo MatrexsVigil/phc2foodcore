@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:yogurt"
+    },
+    {
+      "tag": "forge:caramel"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:caramelyogurtitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:egg"
+    },
+    {
+      "tag": "forge:rawpork"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:baconandeggsitem",
+	"count": 1}
+	
+}

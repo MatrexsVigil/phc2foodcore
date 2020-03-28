@@ -1,0 +1,8 @@
+{
+		"replace": false,
+		"values": [
+			"#forge:icecreams/icecream",
+"#forge:icecreams/chocolateicecream",
+"#forge:icecreams/caramelicecream"
+	]
+}

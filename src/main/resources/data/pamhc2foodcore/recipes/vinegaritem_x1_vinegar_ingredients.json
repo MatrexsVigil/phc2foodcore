@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:vinegar_ingredients"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:vinegaritem",
+	"count": 1}
+	
+}

@@ -1,0 +1,14 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:stock_ingredients/bone",
+"#forge:stock_ingredients/rawbeef",
+"#forge:stock_ingredients/rawchicken",
+"#forge:stock_ingredients/rawcod",
+"#forge:stock_ingredients/rawmutton",
+"#forge:stock_ingredients/rawpork",
+"#forge:stock_ingredients/rawrabbit",
+"#forge:stock_ingredients/rawsalmon",
+"#forge:stock_ingredients/rawtropicalfish"
+	]
+}

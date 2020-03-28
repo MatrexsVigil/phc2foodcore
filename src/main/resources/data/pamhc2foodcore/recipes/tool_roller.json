@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+"pattern": [
+    "   ",
+    "aba",
+    "   "
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:rods/wooden"
+    },
+    "b": {
+      "tag" :"minecraft:logs"
+    }
+  },
+  "result": {
+    "item": "pamhc2foodcore:rolleritem"
+  }
+	
+}
