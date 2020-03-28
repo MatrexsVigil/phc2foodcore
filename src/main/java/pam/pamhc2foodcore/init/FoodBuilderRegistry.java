@@ -152,7 +152,7 @@ public static final Food COTTONCANDYITEM = (new Food.Builder()).hunger(2).satura
 public static final Food STOCKITEM = (new Food.Builder()).hunger(5).saturation(1.2F).build();
 
 //GENERIC FOOD
-public static final Food FRUITPUNCHITEM = (new Food.Builder()).hunger(9).saturation(1.2F).build();
+public static final Food FRUITPUNCHITEM = (new Food.Builder()).hunger(13).saturation(1.2F).build();
 public static final Food STEWITEM = (new Food.Builder()).hunger(15).saturation(1.2F).build();
 public static final Food BAKEDVEGETABLEMEDLYITEM = (new Food.Builder()).hunger(7).saturation(1.2F).build();
 public static final Food FRUITSALADITEM = (new Food.Builder()).hunger(9).saturation(1.2F).build();
