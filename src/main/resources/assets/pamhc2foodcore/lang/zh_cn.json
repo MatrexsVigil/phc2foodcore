@@ -1,0 +1,171 @@
+{
+	"itemGroup.pamhc2foodcore": "ÅËÂíË¹Å©³¡2£ººËĞÄÊ³Îï",
+
+	
+//tools
+"item.pamhc2foodcore.bakewareitem": "¿¾ÅÌ",
+"item.pamhc2foodcore.cuttingboarditem": "µ¶Õè°å",
+"item.pamhc2foodcore.juiceritem": "Õ¥Ö­Æ÷",
+"item.pamhc2foodcore.grinderitem": "ÑĞ²§",
+"item.pamhc2foodcore.mixingbowlitem": "½Á°è²§",
+"item.pamhc2foodcore.potitem": "¹ø",
+"item.pamhc2foodcore.rolleritem": "ß¦ÃæÕÈ",
+"item.pamhc2foodcore.saucepanitem": "ÉîÆ½µ×¹ø",
+"item.pamhc2foodcore.skilletitem": "Æ½µ×¹ø",
+
+//wheat
+"item.pamhc2foodcore.flouritem": "Ãæ·Û",
+"item.pamhc2foodcore.doughitem": "ÉúÃæÍÅ",
+"item.pamhc2foodcore.toastitem": "ÍÂË¾",
+"item.pamhc2foodcore.grilledcheeseitem": "¿¾ÄÌÀÒÈıÃ÷ÖÎ",
+"item.pamhc2foodcore.carrotbreaditem": "ºúÂÜ²·Ãæ°ü",
+"item.pamhc2foodcore.pumpkinbreaditem": "ÄÏ¹ÏÃæ°ü",
+"item.pamhc2foodcore.pastaitem": "Í¨ĞÄ·Û",
+"item.pamhc2foodcore.macncheeseitem": "ÄÌÀÒÍ¨ĞÄ·Û",
+"item.pamhc2foodcore.noodlesoupitem": "ÃæÌÀ",
+"item.pamhc2foodcore.applepieitem": "Æ»¹ûÅÉ",
+"item.pamhc2foodcore.sweetberrypieitem": "Ìğ½¬¹ûÅÉ",
+"item.pamhc2foodcore.chocolatecupcakeitem": "ÇÉ¿ËÁ¦Ö½±­µ°¸â",
+"item.pamhc2foodcore.carrotcupcakeitem": "ºúÂÜ²·Ö½±­µ°¸â",
+"item.pamhc2foodcore.pumpkincupcakeitem": "ÄÏ¹ÏÖ½±­µ°¸â",
+"item.pamhc2foodcore.caramelcupcakeitem": "½¹ÌÇÖ½±­µ°¸â",
+
+"item.pamhc2foodcore.batteritem": "Ãæºı",
+"item.pamhc2foodcore.chocolatecakeitem": "ÇÉ¿ËÁ¦µ°¸â",
+"item.pamhc2foodcore.cheesecakeitem": "ÄÌÀÒµ°¸â",
+"item.pamhc2foodcore.pumpkincheesecakeitem": "ÄÏ¹ÏÄÌÀÒµ°¸â",
+"item.pamhc2foodcore.carrotcakeitem": "ºúÂÜ²·µ°¸â",
+"item.pamhc2foodcore.chocolatemuffinitem": "ÇÉ¿ËÁ¦ËÉ±ı",
+"item.pamhc2foodcore.carrotmuffinitem": "ºúÂÜ²·ËÉ±ı",
+"item.pamhc2foodcore.pumpkinmuffinitem": "ÄÏ¹ÏËÉ±ı",
+"item.pamhc2foodcore.caramelmuffinitem": "½¹ÌÇËÉ±ı",
+"item.pamhc2foodcore.donutitem": "ÌğÌğÈ¦",
+"item.pamhc2foodcore.chocolatedonutitem": "ÇÉ¿ËÁ¦ÌğÌğÈ¦",
+"item.pamhc2foodcore.jellydonutitem": "¹û½´ÌğÌğÈ¦",
+
+//milk
+"item.pamhc2foodcore.butteritem": "»ÆÓÍ",
+"item.pamhc2foodcore.cheeseitem": "ÄÌÀÒ",
+"item.pamhc2foodcore.creamitem": "ÄÌÓÍ",
+"item.pamhc2foodcore.yogurtitem": "Ô­Î¶ËáÄÌ",
+"item.pamhc2foodcore.chocolateyogurtitem": "ÇÉ¿ËÁ¦ËáÄÌ",
+"item.pamhc2foodcore.appleyogurtitem": "Æ»¹ûËáÄÌ",
+"item.pamhc2foodcore.sweetberryyogurtitem": "Ìğ½¬¹ûËáÄÌ",
+"item.pamhc2foodcore.pumpkinyogurtitem": "ÄÏ¹ÏËáÄÌ",
+"item.pamhc2foodcore.caramelyogurtitem": "½¹ÌÇËáÄÌ",
+"item.pamhc2foodcore.icecreamitem": "±ù¼¤Áè",
+"item.pamhc2foodcore.chocolateicecreamitem": "ÇÉ¿ËÁ¦±ù¼¤Áè",
+"item.pamhc2foodcore.caramelicecreamitem": "½¹ÌÇ±ù¼¤Áè",
+
+//cocoa
+"item.pamhc2foodcore.chocolatebaritem": "ÇÉ¿ËÁ¦°ô",
+"item.pamhc2foodcore.cocoapowderitem": "¿É¿É·Û",
+"item.pamhc2foodcore.hotchocolateitem": "ÈÈ¿É¿É",
+"item.pamhc2foodcore.chocolatebaconitem": "ÇÉ¿ËÁ¦Åà¸ù",
+"item.pamhc2foodcore.chocolatepuddingitem": "ÇÉ¿ËÁ¦²¼¶¡",
+"item.pamhc2foodcore.chocolaterollitem": "ÇÉ¿ËÁ¦¾í",
+
+//egg
+"item.pamhc2foodcore.mayonaiseitem": "µ°»Æ½´",
+"item.pamhc2foodcore.boiledeggitem": "Öóµ°",
+"item.pamhc2foodcore.friedeggitem": "¼åµ°",
+"item.pamhc2foodcore.scrambledeggitem": "³´µ°",
+
+//apple
+"item.pamhc2foodcore.applejuiceitem": "Æ»¹ûÖ­",
+"item.pamhc2foodcore.applesmoothieitem": "Æ»¹ûÉ³±ù",
+"item.pamhc2foodcore.applejellyitem": "Æ»¹û½´",
+"item.pamhc2foodcore.applejellytoastitem": "Æ»¹û½´ÍÂË¾",
+"item.pamhc2foodcore.applesauceitem": "Æ»¹ûÉ³Ë¾",
+
+//melon
+"item.pamhc2foodcore.melonjuiceitem": "Î÷¹ÏÖ­",
+"item.pamhc2foodcore.melonsmoothieitem": "Î÷¹ÏÉ³±ù",
+"item.pamhc2foodcore.melonjellyitem": "Î÷¹Ï½´",
+"item.pamhc2foodcore.melonjellytoastitem": "Î÷¹Ï½´ÍÂË¾",
+
+//sweet berry
+"item.pamhc2foodcore.sweetberryjuiceitem": "Ìğ½¬¹ûÖ­",
+"item.pamhc2foodcore.sweetberrysmoothieitem": "Ìğ½¬¹ûÉ³±ù",
+"item.pamhc2foodcore.sweetberryjellyitem": "Ìğ½¬¹û½´",
+"item.pamhc2foodcore.sweetberryjellytoastitem": "Ìğ½¬¹ûÍÂË¾",
+
+//chicken
+"item.pamhc2foodcore.friedchickenitem": "Õ¨¼¦",
+"item.pamhc2foodcore.groundchickenitem": "¼¦ÈâÏÚ",
+"item.pamhc2foodcore.chickennuggetitem": "¼¦ÈâÁ£",
+"item.pamhc2foodcore.basicchickensandwichitem": "¼¦Èâ±¤",
+"item.pamhc2foodcore.chickenjerkyitem": "¼¦Èâ¸É",
+"item.pamhc2foodcore.chickenpotpieitem": "¼¦ÈâËÖÆ¤ÅÉ",
+"item.pamhc2foodcore.chickendinneritem": "¼¦Èâ²Í",
+
+//beef
+"item.pamhc2foodcore.potroastitem": "¹øÉÕÅ£Èâ",
+"item.pamhc2foodcore.groundbeefitem": "Å£ÈâÏÚ",
+"item.pamhc2foodcore.basichamburgeritem": "Å£Èâ±¤",
+"item.pamhc2foodcore.basiccheeseburgeritem": "ÄÌÀÒÅ£Èâ±¤",
+"item.pamhc2foodcore.baconcheeseburgeritem": "Åà¸ùÅ£Èâ±¤",
+"item.pamhc2foodcore.beefjerkyitem": "Å£Èâ¸É",
+
+//pork
+"item.pamhc2foodcore.groundporkitem": "ÖíÈâÏÚ",
+"item.pamhc2foodcore.porkjerkyitem": "ÖíÈâ¸É",
+"item.pamhc2foodcore.hotdogitem": "ÈÈ¹·",
+"item.pamhc2foodcore.baconandeggsitem": "Åà¸ùµ°",
+
+//fish
+"item.pamhc2foodcore.groundfishitem": "ÓãÈâÏÚ",
+"item.pamhc2foodcore.fishsticksitem": "Óã¸â",
+"item.pamhc2foodcore.basicfishsandwichitem": "ÓãÈâ±¤",
+"item.pamhc2foodcore.fishjerkyitem": "ÓãÈâ±¤",
+"item.pamhc2foodcore.fishandchipsitem": "Õ¨ÓãÊíÌõ",
+
+//mutton
+"item.pamhc2foodcore.groundmuttonitem": "ÑòÈâÏÚ",
+"item.pamhc2foodcore.muttonjerkyitem": "ÑòÈâ¸É",
+
+//rabbit
+"item.pamhc2foodcore.groundrabbititem": "ÍÃÈâÏÚ",
+"item.pamhc2foodcore.rabbitjerkyitem": "ÍÃÈâ¸É",
+
+//potato
+"item.pamhc2foodcore.butteredbakedpotatoitem": "»ÆÓÍ¿¾ÍÁ¶¹",
+"item.pamhc2foodcore.mashedpotatoesitem": "ÍÁ¶¹Äà",
+"item.pamhc2foodcore.friesitem": "ÊíÌõ",
+"item.pamhc2foodcore.potatochipsitem": "ÊíÆ¬",
+"item.pamhc2foodcore.potatosoupitem": "ÍÁ¶¹ÌÀ",
+
+//carrot
+"item.pamhc2foodcore.glazedcarrotsitem": "°ÎË¿ºúÂÜ²·",
+"item.pamhc2foodcore.carrotsoupitem": "ºúÂÜ²·ÌÀ",
+
+//beet
+"item.pamhc2foodcore.pickledbeetsitem": "ëçÌğ²Ë",
+
+//pumpkin
+"item.pamhc2foodcore.pumpkinsoupitem": "ÄÏ¹ÏÌÀ",
+
+//sugar
+"item.pamhc2foodcore.caramelitem": "½¹ÌÇ",
+"item.pamhc2foodcore.caramelappleitem": "Æ»¹ûÕº½¹ÌÇ",
+"item.pamhc2foodcore.marshmellowsitem": "ÃŞ»¨ÌÇ",
+"item.pamhc2foodcore.marshmellowchicksitem": "Ğ¡¼¦ÃŞ»¨ÌÇ",
+"item.pamhc2foodcore.cottoncandyitem": "ÃŞ»¨ÌÇ°ô",
+
+//misc
+"item.pamhc2foodcore.cookingoilitem": "Ê³ÓÍ",
+"item.pamhc2foodcore.vinegaritem": "´×",
+"item.pamhc2foodcore.freshwateritem": "ÒûË®",
+"item.pamhc2foodcore.freshmilkitem": "ÏÊÄÌ",
+"item.pamhc2foodcore.saltitem": "Ê³ÑÎ",
+"item.pamhc2foodcore.stockitem": "ÌÀ",
+
+//generic food
+"item.pamhc2foodcore.fruitpunchitem": "¸´ºÏ¹ûÖ­",
+"item.pamhc2foodcore.stewitem": "´ó¹øìÀ",
+"item.pamhc2foodcore.bakedvegetablemedlyitem": "´ó°è²Ë",
+"item.pamhc2foodcore.fruitsaladitem": "Ë®¹ûÉ³À­",
+"item.pamhc2foodcore.meatloafitem": "Èâ¾í",
+"item.pamhc2foodcore.p8juiceitem": "P8¹ûÖ­",
+"item.pamhc2foodcore.fruitcrumbleitem": "Ë®¹ûËÉ´à±ı"
+}
