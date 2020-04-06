@@ -1,6 +1,6 @@
 {
 	"itemGroup.pamhc2foodcore": "潘马斯农场2：核心食物",
-
+//PHC2-Foodcore-1.0.2
 	
 //tools
 "item.pamhc2foodcore.bakewareitem": "烤盘",
@@ -10,7 +10,7 @@
 "item.pamhc2foodcore.mixingbowlitem": "搅拌钵",
 "item.pamhc2foodcore.potitem": "锅",
 "item.pamhc2foodcore.rolleritem": "擀面杖",
-"item.pamhc2foodcore.saucepanitem": "深平底锅",
+"item.pamhc2foodcore.saucepanitem": "炒锅",
 "item.pamhc2foodcore.skilletitem": "平底锅",
 
 //wheat
@@ -147,7 +147,7 @@
 
 //sugar
 "item.pamhc2foodcore.caramelitem": "焦糖",
-"item.pamhc2foodcore.caramelappleitem": "苹果蘸焦糖",
+"item.pamhc2foodcore.caramelappleitem": "焦糖苹果",
 "item.pamhc2foodcore.marshmellowsitem": "棉花糖",
 "item.pamhc2foodcore.marshmellowchicksitem": "小鸡棉花糖",
 "item.pamhc2foodcore.cottoncandyitem": "棉花糖棒",
