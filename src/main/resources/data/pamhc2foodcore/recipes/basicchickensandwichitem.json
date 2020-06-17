@@ -4,10 +4,16 @@
 	"ingredients":
 	[
     {
-      "tag": "forge:tool_grinder"
+      "tag": "forge:tool_skillet"
     },
     {
-      "tag": "forge:rawchicken"
+      "item": "pamhc2foodcore:groundchickenitem"
+    },
+	{
+      "tag": "forge:condiments"
+    },
+{
+      "tag": "forge:bread"
     }
 
 

@@ -156,7 +156,7 @@ public static final Food FRUITPUNCHITEM = (new Food.Builder()).hunger(13).satura
 public static final Food STEWITEM = (new Food.Builder()).hunger(15).saturation(1.2F).build();
 public static final Food BAKEDVEGETABLEMEDLYITEM = (new Food.Builder()).hunger(7).saturation(1.2F).build();
 public static final Food FRUITSALADITEM = (new Food.Builder()).hunger(9).saturation(1.2F).build();
-public static final Food MEATLOAFITEM = (new Food.Builder()).hunger(12).saturation(1.2F).build();
+public static final Food MEATLOAFITEM = (new Food.Builder()).hunger(10).saturation(1.2F).build();
 public static final Food P8JUICEITEM = (new Food.Builder()).hunger(7).saturation(1.2F).build();
 public static final Food FRUITCRUMBLEITEM = (new Food.Builder()).hunger(10).saturation(1.2F).build();
 
