@@ -29,6 +29,6 @@ Pam's HarvestCraft 2 Food Core adds all new food to the game
 [[dependencies.pamhc2foodcore]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.14.4]"
+    versionRange="[1.16.1]"
     ordering="NONE"
     side="BOTH"

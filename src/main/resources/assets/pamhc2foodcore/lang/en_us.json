@@ -30,6 +30,7 @@
 "item.pamhc2foodcore.pumpkincupcakeitem": "Pumpkin Cupcake",
 "item.pamhc2foodcore.caramelcupcakeitem": "Caramel Cupcake",
 
+
 "item.pamhc2foodcore.batteritem": "Batter",
 "item.pamhc2foodcore.chocolatecakeitem": "Chocolate Cake",
 "item.pamhc2foodcore.cheesecakeitem": "Cheese Cake",
@@ -42,6 +43,9 @@
 "item.pamhc2foodcore.donutitem": "Donut",
 "item.pamhc2foodcore.chocolatedonutitem": "Chocolate Donut",
 "item.pamhc2foodcore.jellydonutitem": "Jelly Donut",
+
+"item.pamhc2foodcore.crackeritem": "Cracker",
+"item.pamhc2foodcore.softpretzelitem": "Soft Pretzel",
 
 //milk
 "item.pamhc2foodcore.butteritem": "Butter",
@@ -56,6 +60,7 @@
 "item.pamhc2foodcore.icecreamitem": "Ice Cream",
 "item.pamhc2foodcore.chocolateicecreamitem": "Chocolate Ice Cream",
 "item.pamhc2foodcore.caramelicecreamitem": "Caramel Ice Cream",
+"item.pamhc2foodcore.cookiesandmilkitem": "Cookies and Milk",
 
 //cocoa
 "item.pamhc2foodcore.chocolatebaritem": "Chocolate Bar",
@@ -64,6 +69,9 @@
 "item.pamhc2foodcore.chocolatebaconitem": "Chocolate Bacon",
 "item.pamhc2foodcore.chocolatepuddingitem": "Chocolate Pudding",
 "item.pamhc2foodcore.chocolaterollitem": "Chocolate Roll",
+"item.pamhc2foodcore.chocolatecaramelfudgeitem": "Chocolate Caramel Fudge",
+"item.pamhc2foodcore.smoresitem": "Smores",
+"item.pamhc2foodcore.trailmixitem": "Trail Mix",
 
 //egg
 "item.pamhc2foodcore.mayonaiseitem": "Mayonaise",
@@ -112,6 +120,7 @@
 "item.pamhc2foodcore.porkjerkyitem": "Pork Jerky",
 "item.pamhc2foodcore.hotdogitem": "Hot Dog",
 "item.pamhc2foodcore.baconandeggsitem": "Bacon and Eggs",
+"item.pamhc2foodcore.epicbaconitem": "Epic Bacon",
 
 //fish
 "item.pamhc2foodcore.groundfishitem": "Ground Fish",
@@ -151,6 +160,9 @@
 "item.pamhc2foodcore.marshmellowsitem": "Marshmellows",
 "item.pamhc2foodcore.marshmellowchicksitem": "Marshmellow Chicks",
 "item.pamhc2foodcore.cottoncandyitem": "Cotton Candy",
+"item.pamhc2foodcore.gummybearsitem": "Gummy Bears",
+"item.pamhc2foodcore.jellybeansitem": "Jelly Beans",
+"item.pamhc2foodcore.smoresitem": "Smores",
 
 //misc
 "item.pamhc2foodcore.cookingoilitem": "Cooking Oil",
