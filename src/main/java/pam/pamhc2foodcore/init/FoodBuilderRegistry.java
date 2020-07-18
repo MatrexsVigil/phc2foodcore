@@ -34,6 +34,9 @@ public static final Food DONUTITEM = (new Food.Builder()).hunger(8).saturation(1
 public static final Food CHOCOLATEDONUTITEM = (new Food.Builder()).hunger(9).saturation(1.2F).build();
 public static final Food JELLYDONUTITEM = (new Food.Builder()).hunger(12).saturation(1.2F).build();
 
+public static final Food CRACKERITEM = (new Food.Builder()).hunger(5).saturation(1.2F).build();
+public static final Food SOFTPRETZELITEM = (new Food.Builder()).hunger(6).saturation(1.2F).build();
+
 //MILK 2
 // BUTTERITEM 3
 public static final Food CHEESEITEM = (new Food.Builder()).hunger(4).saturation(1.2F).build();
@@ -47,6 +50,7 @@ public static final Food CARAMELYOGURTITEM = (new Food.Builder()).hunger(6).satu
 public static final Food ICECREAMITEM = (new Food.Builder()).hunger(6).saturation(1.2F).build();
 public static final Food CHOCOLATEICECREAMITEM = (new Food.Builder()).hunger(9).saturation(1.2F).build();
 public static final Food CARAMELICECREAMITEM = (new Food.Builder()).hunger(9).saturation(1.2F).build();
+public static final Food COOKIESANDMILKITEM = (new Food.Builder()).hunger(5).saturation(1.2F).build();
 
 //COCOA 1
 public static final Food CHOCOLATEBARITEM = (new Food.Builder()).hunger(2).saturation(1.2F).build();
@@ -55,6 +59,9 @@ public static final Food HOTCHOCOLATEITEM = (new Food.Builder()).hunger(7).satur
 public static final Food CHOCOLATEBACONITEM = (new Food.Builder()).hunger(6).saturation(1.2F).build();
 public static final Food CHOCOLATEPUDDINGITEM = (new Food.Builder()).hunger(5).saturation(1.2F).build();
 public static final Food CHOCOLATEROLLITEM = (new Food.Builder()).hunger(9).saturation(1.2F).build();
+public static final Food CHOCOLATECARAMELFUDGEITEM = (new Food.Builder()).hunger(7).saturation(1.2F).build();
+public static final Food SMORESITEM = (new Food.Builder()).hunger(10).saturation(1.2F).build();
+public static final Food TRAILMIXITEM = (new Food.Builder()).hunger(8).saturation(1.2F).build();
 
 //EGG 2 
 // MAYONAISEITEM 3
@@ -103,6 +110,7 @@ public static final Food GROUNDPORKITEM = (new Food.Builder()).hunger(4).saturat
 public static final Food PORKJERKYITEM = (new Food.Builder()).hunger(6).saturation(1.2F).build();
 public static final Food HOTDOGITEM = (new Food.Builder()).hunger(13).saturation(1.2F).build();
 public static final Food BACONANDEGGSITEM = (new Food.Builder()).hunger(6).saturation(1.2F).build();
+public static final Food EPICBACONITEM = (new Food.Builder()).hunger(11).saturation(1.2F).build();
 
 //FISH 2/6
 public static final Food GROUNDFISHITEM = (new Food.Builder()).hunger(3).saturation(1.2F).build();
@@ -142,7 +150,8 @@ public static final Food CARAMELAPPLEITEM = (new Food.Builder()).hunger(9).satur
 public static final Food MARSHMELLOWSITEM = (new Food.Builder()).hunger(2).saturation(1.2F).build();
 public static final Food MARSHMELLOWCHICKSITEM = (new Food.Builder()).hunger(3).saturation(1.2F).build();
 public static final Food COTTONCANDYITEM = (new Food.Builder()).hunger(2).saturation(1.2F).build();
-
+public static final Food GUMMYBEARSITEM = (new Food.Builder()).hunger(4).saturation(1.2F).build();
+public static final Food JELLYBEANSITEM = (new Food.Builder()).hunger(4).saturation(1.2F).build();
 //MISC
 // COOKINGOILITEM 2
 // VINEGARITEM 5

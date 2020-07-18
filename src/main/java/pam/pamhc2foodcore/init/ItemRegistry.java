@@ -49,6 +49,9 @@ public class ItemRegistry {
 	public static Item donutitem;
 	public static Item chocolatedonutitem;
 	public static Item jellydonutitem;
+	
+	public static Item crackeritem;
+	public static Item softpretzelitem;
 
 	//milk
 	public static Item butteritem;
@@ -63,6 +66,7 @@ public class ItemRegistry {
 	public static Item icecreamitem;
 	public static Item chocolateicecreamitem;
 	public static Item caramelicecreamitem;
+	public static Item cookiesandmilkitem;
 
 	//cocoa
 	public static Item chocolatebaritem;
@@ -71,6 +75,9 @@ public class ItemRegistry {
 	public static Item chocolatebaconitem;
 	public static Item chocolatepuddingitem;
 	public static Item chocolaterollitem;
+	public static Item chocolatecaramelfudgeitem;
+	public static Item smoresitem;
+	public static Item trailmixitem;
 
 	//egg
 	public static Item mayonaiseitem;
@@ -119,6 +126,7 @@ public class ItemRegistry {
 	public static Item porkjerkyitem;
 	public static Item hotdogitem;
 	public static Item baconandeggsitem;
+	public static Item epicbaconitem;
 
 	//fish
 	public static Item groundfishitem;
@@ -158,6 +166,8 @@ public class ItemRegistry {
 	public static Item marshmellowsitem;
 	public static Item marshmellowchicksitem;
 	public static Item cottoncandyitem;
+	public static Item gummybearsitem;
+	public static Item jellybeansitem;
 
 	//misc
 	public static Item cookingoilitem;
@@ -224,6 +234,9 @@ public class ItemRegistry {
 		donutitem = register("donutitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.DONUTITEM)));
 		chocolatedonutitem = register("chocolatedonutitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.CHOCOLATEDONUTITEM)));
 		jellydonutitem = register("jellydonutitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.JELLYDONUTITEM)));
+		
+		crackeritem = register("crackeritem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.CRACKERITEM)));
+		softpretzelitem = register("softpretzelitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.SOFTPRETZELITEM)));
 
 		//milk
 		butteritem = register("butteritem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP)));//INEDIBLE
@@ -238,6 +251,7 @@ public class ItemRegistry {
 		icecreamitem = register("icecreamitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.ICECREAMITEM)));
 		chocolateicecreamitem = register("chocolateicecreamitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.CHOCOLATEICECREAMITEM)));
 		caramelicecreamitem = register("caramelicecreamitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.CARAMELICECREAMITEM)));
+		cookiesandmilkitem = register("cookiesandmilkitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.COOKIESANDMILKITEM)));
 
 		//cocoa
 		chocolatebaritem = register("chocolatebaritem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.CHOCOLATEBARITEM)));
@@ -246,6 +260,9 @@ public class ItemRegistry {
 		chocolatebaconitem = register("chocolatebaconitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.CHOCOLATEBACONITEM)));
 		chocolatepuddingitem = register("chocolatepuddingitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.CHOCOLATEPUDDINGITEM)));
 		chocolaterollitem = register("chocolaterollitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.CHOCOLATEROLLITEM)));
+		chocolatecaramelfudgeitem = register("chocolatecaramelfudgeitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.CHOCOLATECARAMELFUDGEITEM)));
+		smoresitem = register("smoresitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.SMORESITEM)));
+		trailmixitem = register("trailmixitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.TRAILMIXITEM)));
 
 		//egg
 		mayonaiseitem = register("mayonaiseitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP)));//INEDIBLE
@@ -294,6 +311,7 @@ public class ItemRegistry {
 		porkjerkyitem = register("porkjerkyitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.PORKJERKYITEM)));
 		hotdogitem = register("hotdogitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.HOTDOGITEM)));
 		baconandeggsitem = register("baconandeggsitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.BACONANDEGGSITEM)));
+		epicbaconitem = register("epicbaconitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.EPICBACONITEM)));
 
 		//fish
 		groundfishitem = register("groundfishitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.GROUNDFISHITEM)));
@@ -333,6 +351,8 @@ public class ItemRegistry {
 		marshmellowsitem = register("marshmellowsitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.MARSHMELLOWSITEM)));
 		marshmellowchicksitem = register("marshmellowchicksitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.MARSHMELLOWCHICKSITEM)));
 		cottoncandyitem = register("cottoncandyitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.COTTONCANDYITEM)));
+		gummybearsitem = register("gummybearsitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.GUMMYBEARSITEM)));
+		jellybeansitem = register("jellybeansitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.JELLYBEANSITEM)));
 
 		//misc
 		cookingoilitem = register("cookingoilitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP)));//INEDIBLE
