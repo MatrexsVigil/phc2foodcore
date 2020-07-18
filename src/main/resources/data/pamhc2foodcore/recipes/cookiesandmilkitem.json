@@ -4,7 +4,7 @@
 	"ingredients":
 	[
     {
-      "tag": "forge:took_mixingbowl"
+      "tag": "forge:tool_mixingbowl"
     },
     {
       "tag": "forge:milk"
