@@ -1,0 +1,181 @@
+{
+"itemGroup.fabricphc2foodcore": "Pam's HarvestCraft 2 - Food Core",
+
+//tools
+"item.fabricphc2foodcore.bakewareitem": "Backform",
+"item.fabricphc2foodcore.cuttingboarditem": "Schneidbrett",
+"item.fabricphc2foodcore.juiceritem": "Saftpresse",
+"item.fabricphc2foodcore.grinderitem": "Mörser",
+"item.fabricphc2foodcore.mixingbowlitem": "Rührschüssel",
+"item.fabricphc2foodcore.potitem": "Topf",
+"item.fabricphc2foodcore.rolleritem": "Nudelholz",
+"item.fabricphc2foodcore.saucepanitem": "Saucenpfanne",
+"item.fabricphc2foodcore.skilletitem": "Bratpfanne",
+
+//wheat
+"item.fabricphc2foodcore.flouritem": "Mehl",
+"item.fabricphc2foodcore.doughitem": "Knetteig",
+"item.fabricphc2foodcore.toastitem": "Toast",
+"item.fabricphc2foodcore.grilledcheeseitem": "Grillkäse",
+"item.fabricphc2foodcore.carrotbreaditem": "Karottenbrot",
+"item.fabricphc2foodcore.pumpkinbreaditem": "Kürbiskernbrot",
+"item.fabricphc2foodcore.pastaitem": "Nudeln",
+"item.fabricphc2foodcore.macncheeseitem": "Makaroni & Käse",
+"item.fabricphc2foodcore.noodlesoupitem": "Nudelsuppe",
+"item.fabricphc2foodcore.applepieitem": "Apfelkuchen",
+"item.fabricphc2foodcore.sweetberrypieitem": "Beerenkuchen",
+"item.fabricphc2foodcore.chocolatecupcakeitem": "Schokoladenmuffin",
+"item.fabricphc2foodcore.carrotcupcakeitem": "Karottenmuffin",
+"item.fabricphc2foodcore.pumpkincupcakeitem": "Kürbismuffin",
+"item.fabricphc2foodcore.caramelcupcakeitem": "Karamelmuffin",
+
+
+"item.fabricphc2foodcore.batteritem": "Rührteig",
+"item.fabricphc2foodcore.chocolatecakeitem": "Schokoladenkuchen",
+"item.fabricphc2foodcore.cheesecakeitem": "Käsekuchen",
+"item.fabricphc2foodcore.pumpkincheesecakeitem": "Kürbiskäsekuchen",
+"item.fabricphc2foodcore.carrotcakeitem": "Karottenkuchen",
+"item.fabricphc2foodcore.chocolatemuffinitem": "Schokoladenmuffin",
+"item.fabricphc2foodcore.carrotmuffinitem": "Karottenmuffin",
+"item.fabricphc2foodcore.pumpkinmuffinitem": "Kürbismuffin",
+"item.fabricphc2foodcore.caramelmuffinitem": "Karamelmuffin",
+"item.fabricphc2foodcore.donutitem": "Donut",
+"item.fabricphc2foodcore.chocolatedonutitem": "Schoko-Donut",
+"item.fabricphc2foodcore.jellydonutitem": "Marmeladen-Donut",
+
+"item.fabricphc2foodcore.crackeritem": "Kräcker",
+"item.fabricphc2foodcore.softpretzelitem": "Laugenbrezel",
+
+//milk
+"item.fabricphc2foodcore.butteritem": "Butter",
+"item.fabricphc2foodcore.cheeseitem": "Käse",
+"item.fabricphc2foodcore.creamitem": "Sahne",
+"item.fabricphc2foodcore.yogurtitem": "Joghurt",
+"item.fabricphc2foodcore.chocolateyogurtitem": "Schokoladen-Joghurt",
+"item.fabricphc2foodcore.appleyogurtitem": "Apfel-Joghurt",
+"item.fabricphc2foodcore.sweetberryyogurtitem": "Wildbeeren-Joghurt",
+"item.fabricphc2foodcore.pumpkinyogurtitem": "Kürbis-Joghurt",
+"item.fabricphc2foodcore.caramelyogurtitem": "Karamel-Joghurt",
+"item.fabricphc2foodcore.icecreamitem": "Eiscreme",
+"item.fabricphc2foodcore.chocolateicecreamitem": "Schokoladen-Eiscreme",
+"item.fabricphc2foodcore.caramelicecreamitem": "Karamel-Eiscreme",
+"item.fabricphc2foodcore.cookiesandmilkitem": "Kekse und Milch",
+
+//cocoa
+"item.fabricphc2foodcore.chocolatebaritem": "Schokoladentafel",
+"item.fabricphc2foodcore.cocoapowderitem": "Kakaopulver",
+"item.fabricphc2foodcore.hotchocolateitem": "Heiße Schokolade",
+"item.fabricphc2foodcore.chocolatebaconitem": "Schoko-Bacon",
+"item.fabricphc2foodcore.chocolatepuddingitem": "Schoko-Pudding",
+"item.fabricphc2foodcore.chocolaterollitem": "Schoko-Biskuitrolle",
+"item.fabricphc2foodcore.chocolatecaramelfudgeitem": "Schoko-Karamel-Toffee",
+"item.fabricphc2foodcore.smoresitem": "S'mores",
+"item.fabricphc2foodcore.trailmixitem": "Müslirigel",
+
+//egg
+"item.fabricphc2foodcore.mayonaiseitem": "Mayonaise",
+"item.fabricphc2foodcore.boiledeggitem": "Gekochtes Ei",
+"item.fabricphc2foodcore.friedeggitem": "Spiegelei",
+"item.fabricphc2foodcore.scrambledeggitem": "Rührei",
+
+//apple
+"item.fabricphc2foodcore.applejuiceitem": "Apfelsaft",
+"item.fabricphc2foodcore.applesmoothieitem": "Apfel-Smoothie",
+"item.fabricphc2foodcore.applejellyitem": "Apfelmarmelade",
+"item.fabricphc2foodcore.applejellytoastitem": "Apfelgelee-Toast",
+"item.fabricphc2foodcore.applesauceitem": "Apfelmus",
+
+//melon
+"item.fabricphc2foodcore.melonjuiceitem": "Melonensaft",
+"item.fabricphc2foodcore.melonsmoothieitem": "Melonen-Smoothie",
+"item.fabricphc2foodcore.melonjellyitem": "Melonengelee",
+"item.fabricphc2foodcore.melonjellytoastitem": "Melonengelee-Toast",
+
+//sweet berry
+"item.fabricphc2foodcore.sweetberryjuiceitem": "Beerensirup",
+"item.fabricphc2foodcore.sweetberrysmoothieitem": "Wildbeeren-Smoothie",
+"item.fabricphc2foodcore.sweetberryjellyitem": "Beerenmarmelade",
+"item.fabricphc2foodcore.sweetberryjellytoastitem": "Beerenmarmelade-Toast",
+
+//chicken
+"item.fabricphc2foodcore.friedchickenitem": "Brathähnchen",
+"item.fabricphc2foodcore.groundchickenitem": "Hänchenhack",
+"item.fabricphc2foodcore.chickennuggetitem": "Chicken Nugget",
+"item.fabricphc2foodcore.basicchickensandwichitem": "Einfaches Hänchen Sandwich",
+"item.fabricphc2foodcore.chickenjerkyitem": "Hühner-Dörrfleisch",
+"item.fabricphc2foodcore.chickenpotpieitem": "Hühnertopf-Pastete",
+"item.fabricphc2foodcore.chickendinneritem": "Hähnchen-Abendessen",
+
+//beef
+"item.fabricphc2foodcore.potroastitem": "Schmorbraten",
+"item.fabricphc2foodcore.groundbeefitem": "Rinderhack",
+"item.fabricphc2foodcore.basichamburgeritem": "Einfacher Hamburger",
+"item.fabricphc2foodcore.basiccheeseburgeritem": "Einfacher Cheeseburger",
+"item.fabricphc2foodcore.baconcheeseburgeritem": "Bacon Cheeseburger",
+"item.fabricphc2foodcore.beefjerkyitem": "Dörrfleisch",
+
+//pork
+"item.fabricphc2foodcore.groundporkitem": "Schweinehack",
+"item.fabricphc2foodcore.porkjerkyitem": "Schweine-Dörrfleisch",
+"item.fabricphc2foodcore.hotdogitem": "Hot Dog",
+"item.fabricphc2foodcore.baconandeggsitem": "Bacon and Eggs",
+"item.fabricphc2foodcore.epicbaconitem": "Epic Bacon",
+
+//fish
+"item.fabricphc2foodcore.groundfishitem": "Fischhack",
+"item.fabricphc2foodcore.fishsticksitem": "Fischstäbchen",
+"item.fabricphc2foodcore.basicfishsandwichitem": "Einfaches Fischbrötchen",
+"item.fabricphc2foodcore.fishjerkyitem": "Fisch-Dörrfleisch",
+"item.fabricphc2foodcore.fishandchipsitem": "Fisch & Pommes Frites",
+
+//mutton
+"item.fabricphc2foodcore.groundmuttonitem": "Hammelhack",
+"item.fabricphc2foodcore.muttonjerkyitem": "Hammel-Dörrfleisch",
+
+//rabbit
+"item.fabricphc2foodcore.groundrabbititem": "Kaninchenhack",
+"item.fabricphc2foodcore.rabbitjerkyitem": "Kaninchen-Dörrfleisch",
+
+//potato
+"item.fabricphc2foodcore.butteredbakedpotatoitem": "Gebutterte Ofenkartoffel",
+"item.fabricphc2foodcore.mashedpotatoesitem": "Kartoffelbrei",
+"item.fabricphc2foodcore.friesitem": "Fritten",
+"item.fabricphc2foodcore.potatochipsitem": "Pommes Frites",
+"item.fabricphc2foodcore.potatosoupitem": "Kartoffelsuppe",
+
+//carrot
+"item.fabricphc2foodcore.glazedcarrotsitem": "Glasierte Karottens",
+"item.fabricphc2foodcore.carrotsoupitem": "Karottensuppe",
+
+//beet
+"item.fabricphc2foodcore.pickledbeetsitem": "Eingelegte Rote Bete",
+
+//pumpkin
+"item.fabricphc2foodcore.pumpkinsoupitem": "Kürbissuppe",
+
+//sugar
+"item.fabricphc2foodcore.caramelitem": "Karamel",
+"item.fabricphc2foodcore.caramelappleitem": "Karamelapfel",
+"item.fabricphc2foodcore.marshmellowsitem": "Marshmellows",
+"item.fabricphc2foodcore.marshmellowchicksitem": "Marshmellow Kücken",
+"item.fabricphc2foodcore.cottoncandyitem": "Zuckerwatte",
+"item.fabricphc2foodcore.gummybearsitem": "Gumiebärchen",
+"item.fabricphc2foodcore.jellybeansitem": "Jelly Beans",
+
+//misc
+"item.fabricphc2foodcore.cookingoilitem": "Speiseöl",
+"item.fabricphc2foodcore.vinegaritem": "Essig",
+"item.fabricphc2foodcore.freshwateritem": "Frischwasser",
+"item.fabricphc2foodcore.freshmilkitem": "Frische Milch",
+"item.fabricphc2foodcore.saltitem": "Salz",
+"item.fabricphc2foodcore.stockitem": "Knochenbrühe",
+
+//generic food
+"item.fabricphc2foodcore.fruitpunchitem": "Früchtepunsch",
+"item.fabricphc2foodcore.stewitem": "Eintopf",
+"item.fabricphc2foodcore.bakedvegetablemedlyitem": "Gebackene Gemüsemischungen",
+"item.fabricphc2foodcore.fruitsaladitem": "Fruchtsalat",
+"item.fabricphc2foodcore.meatloafitem": "Hackbraten",
+"item.fabricphc2foodcore.p8juiceitem": "Multivitaminsaft",
+"item.fabricphc2foodcore.fruitcrumbleitem": "Streuselkuchen"
+}
