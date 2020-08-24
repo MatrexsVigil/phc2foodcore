@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_grinder"
+    },
+    {
+      "tag": "forge:crops/cocoabeans"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:cocoapowderitem",
+	"count": 1}
+	
+}

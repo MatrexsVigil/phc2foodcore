@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:cookingoil"
+    },
+    {
+      "tag": "forge:batter"
+    },
+    {
+      "tag": "forge:jellies"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:jellydonutitem",
+	"count": 1}
+	
+}

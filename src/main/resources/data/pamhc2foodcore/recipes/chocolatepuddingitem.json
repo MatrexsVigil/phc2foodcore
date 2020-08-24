@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:cocoapowder"
+    },
+    {
+      "tag": "forge:milk"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:chocolatepuddingitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,8 @@
+{
+		"replace": false,
+		"values": [
+			"#forge:jellies/applejelly",
+"#forge:jellies/melonjelly",
+"#forge:jellies/sweetberryjelly"
+	]
+}

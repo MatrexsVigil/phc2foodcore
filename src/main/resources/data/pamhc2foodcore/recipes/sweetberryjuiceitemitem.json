@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:crops/sweetberry"
+    },
+    {
+      "tag": "forge:crops/sweetberry"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:sweetberryjuiceitem",
+	"count": 1}
+	
+}

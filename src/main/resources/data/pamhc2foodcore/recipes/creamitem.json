@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:milk"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:creamitem",
+	"count": 1}
+	
+}

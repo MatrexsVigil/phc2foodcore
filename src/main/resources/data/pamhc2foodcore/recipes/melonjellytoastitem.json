@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:toast"
+    },
+    {
+      "tag": "forge:melonjelly"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:melonjellytoastitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+"#forge:groundmeats/groundbeef",
+"#forge:groundmeats/groundchicken",
+"#forge:groundmeats/groundfish",
+"#forge:groundmeats/groundmutton",
+"#forge:groundmeats/groundpork",
+"#forge:groundmeats/groundrabbit"
+	]
+}

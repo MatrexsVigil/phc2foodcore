@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+"pattern": [
+    "   ",
+    " a ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "pamhc2foodcore:juiceritem"
+  }
+	
+}

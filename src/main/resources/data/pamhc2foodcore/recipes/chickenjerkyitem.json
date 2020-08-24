@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:rawchicken"
+    },
+    {
+      "tag": "forge:salt"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:chickenjerkyitem",
+	"count": 1}
+	
+}

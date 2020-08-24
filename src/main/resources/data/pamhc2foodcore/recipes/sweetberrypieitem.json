@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:crops/sweetberry"
+    },
+    {
+      "tag": "forge:dough"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:sweetberrypieitem",
+	"count": 1}
+	
+}

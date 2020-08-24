@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:groundmeats"
+    },
+    {
+      "tag": "forge:bread"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:meatloafitem",
+	"count": 1}
+	
+}

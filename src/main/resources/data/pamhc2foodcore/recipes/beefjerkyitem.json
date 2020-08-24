@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:rawbeef"
+    },
+    {
+      "tag": "forge:salt"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:beefjerkyitem",
+	"count": 1}
+	
+}

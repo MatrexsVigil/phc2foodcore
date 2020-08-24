@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:rawfish"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "item": "pamhc2foodcore:friesitem"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:fishandchipsitem",
+	"count": 1}
+	
+}

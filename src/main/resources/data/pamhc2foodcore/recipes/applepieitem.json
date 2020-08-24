@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:crops/apple"
+    },
+    {
+      "tag": "forge:dough"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:applepieitem",
+	"count": 1}
+	
+}

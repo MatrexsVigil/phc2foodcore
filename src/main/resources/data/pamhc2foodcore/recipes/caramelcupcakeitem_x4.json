@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:caramel"
+    },
+    {
+      "tag": "forge:dough"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:caramelcupcakeitem",
+	"count": 4}
+	
+}

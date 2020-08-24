@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:bread"
+    },
+    {
+      "tag": "forge:butter"
+    },
+    {
+      "tag": "forge:cheese"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:grilledcheeseitem",
+	"count": 1}
+	
+}
