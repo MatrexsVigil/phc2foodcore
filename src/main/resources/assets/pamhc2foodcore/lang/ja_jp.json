@@ -1,0 +1,182 @@
+{
+	"itemGroup.pamhc2foodcore": "Pam's HarvestCraft 2 - Food Core",
+
+	
+	//tools
+"item.pamhc2foodcore.bakewareitem": "耐熱皿",
+"item.pamhc2foodcore.cuttingboarditem": "まな板",
+"item.pamhc2foodcore.juiceritem": "ジューサー",
+"item.pamhc2foodcore.grinderitem": "グラインダー",
+"item.pamhc2foodcore.mixingbowlitem": "ミキシングボウル",
+"item.pamhc2foodcore.potitem": "鍋",
+"item.pamhc2foodcore.rolleritem": "麺棒",
+"item.pamhc2foodcore.saucepanitem": "ソースパン",
+"item.pamhc2foodcore.skilletitem": "フライパン",
+
+//wheat
+"item.pamhc2foodcore.flouritem": "小麦粉",
+"item.pamhc2foodcore.doughitem": "生地",
+"item.pamhc2foodcore.toastitem": "トースト",
+"item.pamhc2foodcore.grilledcheeseitem": "粉チーズ",
+"item.pamhc2foodcore.carrotbreaditem": "ニンジンパン",
+"item.pamhc2foodcore.pumpkinbreaditem": "カボチャパン",
+"item.pamhc2foodcore.pastaitem": "パスタ",
+"item.pamhc2foodcore.macncheeseitem": "マカロニ・アンド・チーズ",
+"item.pamhc2foodcore.noodlesoupitem": "ヌードルスープ",
+"item.pamhc2foodcore.applepieitem": "アップルパイ",
+"item.pamhc2foodcore.sweetberrypieitem": "ベリーパイ",
+"item.pamhc2foodcore.chocolatecupcakeitem": "チョコレートカップケーキ",
+"item.pamhc2foodcore.carrotcupcakeitem": "ニンジンカップケーキ",
+"item.pamhc2foodcore.pumpkincupcakeitem": "カボチャカップケーキ",
+"item.pamhc2foodcore.caramelcupcakeitem": "キャラメルカップケーキ",
+
+
+"item.pamhc2foodcore.batteritem": "バター",
+"item.pamhc2foodcore.chocolatecakeitem": "チョコレートケーキ",
+"item.pamhc2foodcore.cheesecakeitem": "チーズケーキ",
+"item.pamhc2foodcore.pumpkincheesecakeitem": "カボチャチーズケーキ",
+"item.pamhc2foodcore.carrotcakeitem": "ニンジンケーキ",
+"item.pamhc2foodcore.chocolatemuffinitem": "チョコレートマフィン",
+"item.pamhc2foodcore.carrotmuffinitem": "ニンジンマフィン",
+"item.pamhc2foodcore.pumpkinmuffinitem": "カボチャマフィン",
+"item.pamhc2foodcore.caramelmuffinitem": "キャラメルマフィン",
+"item.pamhc2foodcore.donutitem": "ドーナツ",
+"item.pamhc2foodcore.chocolatedonutitem": "チョコドーナツ",
+"item.pamhc2foodcore.jellydonutitem": "ジャムドーナツ",
+
+"item.pamhc2foodcore.crackeritem": "クラッカー",
+"item.pamhc2foodcore.softpretzelitem": "プレッツェル",
+
+//milk
+"item.pamhc2foodcore.butteritem": "バター",
+"item.pamhc2foodcore.cheeseitem": "チーズ",
+"item.pamhc2foodcore.creamitem": "クリーム",
+"item.pamhc2foodcore.yogurtitem": "ヨーグルト",
+"item.pamhc2foodcore.chocolateyogurtitem": "チョコヨーグルト",
+"item.pamhc2foodcore.appleyogurtitem": "リンゴヨーグルト",
+"item.pamhc2foodcore.sweetberryyogurtitem": "スイートベリーヨーグルト",
+"item.pamhc2foodcore.pumpkinyogurtitem": "カボチャヨーグルト",
+"item.pamhc2foodcore.caramelyogurtitem": "キャラメルヨーグルト",
+"item.pamhc2foodcore.icecreamitem": "アイスクリーム",
+"item.pamhc2foodcore.chocolateicecreamitem": "チョコアイスクリーム",
+"item.pamhc2foodcore.caramelicecreamitem": "キャラメルアイスクリーム",
+"item.pamhc2foodcore.cookiesandmilkitem": "クッキー&ミルク",
+
+//cocoa
+"item.pamhc2foodcore.chocolatebaritem": "チョコレート",
+"item.pamhc2foodcore.cocoapowderitem": "ココアパウダー",
+"item.pamhc2foodcore.hotchocolateitem": "ココア",
+"item.pamhc2foodcore.chocolatebaconitem": "チョコがけベーコン",
+"item.pamhc2foodcore.chocolatepuddingitem": "チョコレートプリン",
+"item.pamhc2foodcore.chocolaterollitem": "チョコレートロール",
+"item.pamhc2foodcore.chocolatecaramelfudgeitem": "チョコレートキャラメルファッジ",
+"item.pamhc2foodcore.smoresitem": "スモア",
+"item.pamhc2foodcore.trailmixitem": "トレイルミックス",
+
+//egg
+"item.pamhc2foodcore.mayonaiseitem": "マヨネーズ",
+"item.pamhc2foodcore.boiledeggitem": "ゆで卵",
+"item.pamhc2foodcore.friedeggitem": "目玉焼き",
+"item.pamhc2foodcore.scrambledeggitem": "スクランブルエッグ",
+
+//apple
+"item.pamhc2foodcore.applejuiceitem": "リンゴジュース",
+"item.pamhc2foodcore.applesmoothieitem": "リンゴスムージー",
+"item.pamhc2foodcore.applejellyitem": "リンゴジャム",
+"item.pamhc2foodcore.applejellytoastitem": "リンゴジャムトースト",
+"item.pamhc2foodcore.applesauceitem": "アップルソース",
+
+//melon
+"item.pamhc2foodcore.melonjuiceitem": "スイカジュース",
+"item.pamhc2foodcore.melonsmoothieitem": "スイカスムージー",
+"item.pamhc2foodcore.melonjellyitem": "スイカジャム",
+"item.pamhc2foodcore.melonjellytoastitem": "スイカジャムトースト",
+
+//sweet berry
+"item.pamhc2foodcore.sweetberryjuiceitem": "スイートベリージュース",
+"item.pamhc2foodcore.sweetberrysmoothieitem": "スイートベリースムージー",
+"item.pamhc2foodcore.sweetberryjellyitem": "スイートベリージャム",
+"item.pamhc2foodcore.sweetberryjellytoastitem": "スイートベリージャムトースト",
+
+//chicken
+"item.pamhc2foodcore.friedchickenitem": "フライドチキン",
+"item.pamhc2foodcore.groundchickenitem": "鶏挽肉",
+"item.pamhc2foodcore.chickennuggetitem": "チキンナゲット",
+"item.pamhc2foodcore.basicchickensandwichitem": "チキンサンドイッチ",
+"item.pamhc2foodcore.chickenjerkyitem": "鶏肉のジャーキー",
+"item.pamhc2foodcore.chickenpotpieitem": "鶏肉のポットパイ",
+"item.pamhc2foodcore.chickendinneritem": "チキンディナーセット",
+
+//beef
+"item.pamhc2foodcore.potroastitem": "ポットロースト",
+"item.pamhc2foodcore.groundbeefitem": "牛挽肉",
+"item.pamhc2foodcore.basichamburgeritem": "ハンバーガー",
+"item.pamhc2foodcore.basiccheeseburgeritem": "チーズバーガー",
+"item.pamhc2foodcore.baconcheeseburgeritem": "ベーコンチーズバーガー",
+"item.pamhc2foodcore.beefjerkyitem": "牛肉のジャーキー",
+
+//pork
+"item.pamhc2foodcore.groundporkitem": "豚挽肉",
+"item.pamhc2foodcore.porkjerkyitem": "豚肉のジャーキー",
+"item.pamhc2foodcore.hotdogitem": "ホットドッグ",
+"item.pamhc2foodcore.baconandeggsitem": "ベーコンエッグ",
+"item.pamhc2foodcore.epicbaconitem": "まいうーベーコン",
+
+//fish
+"item.pamhc2foodcore.groundfishitem": "魚のすり身",
+"item.pamhc2foodcore.fishsticksitem": "魚のフライ",
+"item.pamhc2foodcore.basicfishsandwichitem": "フィッシュサンドイッチ",
+"item.pamhc2foodcore.fishjerkyitem": "魚の干物",
+"item.pamhc2foodcore.fishandchipsitem": "フィッシュアンドチップス",
+
+//mutton
+"item.pamhc2foodcore.groundmuttonitem": "羊挽肉",
+"item.pamhc2foodcore.muttonjerkyitem": "羊肉のジャーキー",
+
+//rabbit
+"item.pamhc2foodcore.groundrabbititem": "兎挽肉",
+"item.pamhc2foodcore.rabbitjerkyitem": "兎肉のジャーキー",
+
+//potato
+"item.pamhc2foodcore.butteredbakedpotatoitem": "じゃがバター",
+"item.pamhc2foodcore.mashedpotatoesitem": "マッシュポテト",
+"item.pamhc2foodcore.friesitem": "フライドポテト",
+"item.pamhc2foodcore.potatochipsitem": "ポテトチップス",
+"item.pamhc2foodcore.potatosoupitem": "ジャガイモスープ",
+
+//carrot
+"item.pamhc2foodcore.glazedcarrotsitem": "グレイズドキャロット",
+"item.pamhc2foodcore.carrotsoupitem": "ニンジンスープ",
+
+//beet
+"item.pamhc2foodcore.pickledbeetsitem": "ビートルートのピクルス",
+
+//pumpkin
+"item.pamhc2foodcore.pumpkinsoupitem": "カボチャスープ",
+
+//sugar
+"item.pamhc2foodcore.caramelitem": "キャラメル",
+"item.pamhc2foodcore.caramelappleitem": "リンゴキャラメル",
+"item.pamhc2foodcore.marshmellowsitem": "マシュマロ",
+"item.pamhc2foodcore.marshmellowchicksitem": "ピープス",
+"item.pamhc2foodcore.cottoncandyitem": "綿あめ",
+"item.pamhc2foodcore.gummybearsitem": "グミベアー",
+"item.pamhc2foodcore.jellybeansitem": "ゼリービーンズ",
+
+//misc
+"item.pamhc2foodcore.cookingoilitem": "調理油",
+"item.pamhc2foodcore.vinegaritem": "酢",
+"item.pamhc2foodcore.freshwateritem": "水樽",
+"item.pamhc2foodcore.freshmilkitem": "牛乳樽",
+"item.pamhc2foodcore.saltitem": "塩",
+"item.pamhc2foodcore.stockitem": "ストック",
+
+//generic food
+"item.pamhc2foodcore.fruitpunchitem": "フルーツポンチ",
+"item.pamhc2foodcore.stewitem": "シチュー",
+"item.pamhc2foodcore.bakedvegetablemedlyitem": "野菜炒め",
+"item.pamhc2foodcore.fruitsaladitem": "フルーツサラダ",
+"item.pamhc2foodcore.meatloafitem": "ミートローフ",
+"item.pamhc2foodcore.p8juiceitem": "P8ジュース",
+"item.pamhc2foodcore.fruitcrumbleitem": "フルーツクランブル"
+}
