@@ -1,0 +1,182 @@
+{
+	"itemGroup.pamhc2foodcore": "하베스트크래프트(기본 음식)",
+
+	
+	//tools
+"item.pamhc2foodcore.bakewareitem": "빵틀",
+"item.pamhc2foodcore.cuttingboarditem": "도마",
+"item.pamhc2foodcore.juiceritem": "주스기",
+"item.pamhc2foodcore.grinderitem": "그라인더",
+"item.pamhc2foodcore.mixingbowlitem": "믹싱 볼",
+"item.pamhc2foodcore.potitem": "냄비",
+"item.pamhc2foodcore.rolleritem": "롤러",
+"item.pamhc2foodcore.saucepanitem": "소스팬",
+"item.pamhc2foodcore.skilletitem": "프라이팬",
+
+//wheat
+"item.pamhc2foodcore.flouritem": "밀가루",
+"item.pamhc2foodcore.doughitem": "밀가루 반죽",
+"item.pamhc2foodcore.toastitem": "토스트",
+"item.pamhc2foodcore.grilledcheeseitem": "구운 치즈",
+"item.pamhc2foodcore.carrotbreaditem": "당근 빵",
+"item.pamhc2foodcore.pumpkinbreaditem": "호박 빵",
+"item.pamhc2foodcore.pastaitem": "파스타",
+"item.pamhc2foodcore.macncheeseitem": "맥 엔 치즈",
+"item.pamhc2foodcore.noodlesoupitem": "누들 수프",
+"item.pamhc2foodcore.applepieitem": "사과 파이",
+"item.pamhc2foodcore.sweetberrypieitem": "달콤한 열매 파이",
+"item.pamhc2foodcore.chocolatecupcakeitem": "초콜릿 컵케이크",
+"item.pamhc2foodcore.carrotcupcakeitem": "당근 컵케이크",
+"item.pamhc2foodcore.pumpkincupcakeitem": "호박 컵케이크",
+"item.pamhc2foodcore.caramelcupcakeitem": "캐러멜 컵케이크",
+
+
+"item.pamhc2foodcore.batteritem": "케이크 반죽",
+"item.pamhc2foodcore.chocolatecakeitem": "초콜릿 케이크",
+"item.pamhc2foodcore.cheesecakeitem": "치즈 케이크",
+"item.pamhc2foodcore.pumpkincheesecakeitem": "호박 치즈 케이크",
+"item.pamhc2foodcore.carrotcakeitem": "당근 케이크",
+"item.pamhc2foodcore.chocolatemuffinitem": "초콜릿 머핀",
+"item.pamhc2foodcore.carrotmuffinitem": "당근 머핀",
+"item.pamhc2foodcore.pumpkinmuffinitem": "호박 머핀",
+"item.pamhc2foodcore.caramelmuffinitem": "캐러멜 머핀",
+"item.pamhc2foodcore.donutitem": "도넛",
+"item.pamhc2foodcore.chocolatedonutitem": "초콜릿 도넛",
+"item.pamhc2foodcore.jellydonutitem": "젤리 도넛",
+
+"item.pamhc2foodcore.crackeritem": "크래커",
+"item.pamhc2foodcore.softpretzelitem": "소프트 프레첼",
+
+//milk
+"item.pamhc2foodcore.butteritem": "버터",
+"item.pamhc2foodcore.cheeseitem": "치즈",
+"item.pamhc2foodcore.creamitem": "크림",
+"item.pamhc2foodcore.yogurtitem": "요거트",
+"item.pamhc2foodcore.chocolateyogurtitem": "초콜릿 요거트",
+"item.pamhc2foodcore.appleyogurtitem": "사과 요거트",
+"item.pamhc2foodcore.sweetberryyogurtitem": "달콤한 열매 요거트",
+"item.pamhc2foodcore.pumpkinyogurtitem": "호박 요거트",
+"item.pamhc2foodcore.caramelyogurtitem": "캐러멜 요거트",
+"item.pamhc2foodcore.icecreamitem": "아이스크림",
+"item.pamhc2foodcore.chocolateicecreamitem": "초콜릿 아이스크림",
+"item.pamhc2foodcore.caramelicecreamitem": "캐러멜 아이스크림",
+"item.pamhc2foodcore.cookiesandmilkitem": "쿠키 앤 밀크",
+
+//cocoa
+"item.pamhc2foodcore.chocolatebaritem": "초콜릿 바",
+"item.pamhc2foodcore.cocoapowderitem": "코코아 파우더",
+"item.pamhc2foodcore.hotchocolateitem": "핫 초콜릿",
+"item.pamhc2foodcore.chocolatebaconitem": "초콜릿 베이컨",
+"item.pamhc2foodcore.chocolatepuddingitem": "초콜릿 푸딩",
+"item.pamhc2foodcore.chocolaterollitem": "초콜릿 롤",
+"item.pamhc2foodcore.chocolatecaramelfudgeitem": "초콜릿 캐러멜 퍼지",
+"item.pamhc2foodcore.smoresitem": "스모어",
+"item.pamhc2foodcore.trailmixitem": "트레일 믹스",
+
+//egg
+"item.pamhc2foodcore.mayonaiseitem": "마요네즈",
+"item.pamhc2foodcore.boiledeggitem": "삶은 달걀",
+"item.pamhc2foodcore.friedeggitem": "프라이드 에그",
+"item.pamhc2foodcore.scrambledeggitem": "스크램블 에그",
+
+//apple
+"item.pamhc2foodcore.applejuiceitem": "사과 주스",
+"item.pamhc2foodcore.applesmoothieitem": "사과 스무디",
+"item.pamhc2foodcore.applejellyitem": "사과 젤리",
+"item.pamhc2foodcore.applejellytoastitem": "사과 젤리 토스트",
+"item.pamhc2foodcore.applesauceitem": "사과소스",
+
+//melon
+"item.pamhc2foodcore.melonjuiceitem": "멜론 주스",
+"item.pamhc2foodcore.melonsmoothieitem": "멜론 스무디",
+"item.pamhc2foodcore.melonjellyitem": "멜론 젤리",
+"item.pamhc2foodcore.melonjellytoastitem": "멜론 젤리 토스트",
+
+//sweet berry
+"item.pamhc2foodcore.sweetberryjuiceitem": "달콤한 열매 주스",
+"item.pamhc2foodcore.sweetberrysmoothieitem": "달콤한 열매 스무디",
+"item.pamhc2foodcore.sweetberryjellyitem": "달콤한 열매 젤리",
+"item.pamhc2foodcore.sweetberryjellytoastitem": "달콤한 열매 토스트",
+
+//chicken
+"item.pamhc2foodcore.friedchickenitem": "프라이드 치킨",
+"item.pamhc2foodcore.groundchickenitem": "간 닭고기",
+"item.pamhc2foodcore.chickennuggetitem": "치킨 너겟",
+"item.pamhc2foodcore.basicchickensandwichitem": "기본 치킨 샌드위치",
+"item.pamhc2foodcore.chickenjerkyitem": "닭고기 육포",
+"item.pamhc2foodcore.chickenpotpieitem": "치킨 팟 파이",
+"item.pamhc2foodcore.chickendinneritem": "치킨 디너",
+
+//beef
+"item.pamhc2foodcore.potroastitem": "팟 로스트",
+"item.pamhc2foodcore.groundbeefitem": "간 소고기",
+"item.pamhc2foodcore.basichamburgeritem": "기본 햄버거",
+"item.pamhc2foodcore.basiccheeseburgeritem": "기본 치즈버거",
+"item.pamhc2foodcore.baconcheeseburgeritem": "베이컨 치즈버거",
+"item.pamhc2foodcore.beefjerkyitem": "소고기 육포",
+
+//pork
+"item.pamhc2foodcore.groundporkitem": "간 돼지고기",
+"item.pamhc2foodcore.porkjerkyitem": "돼지고기 육포",
+"item.pamhc2foodcore.hotdogitem": "핫도그",
+"item.pamhc2foodcore.baconandeggsitem": "베이컨 앤 에그",
+"item.pamhc2foodcore.epicbaconitem": "에픽 베이컨",
+
+//fish
+"item.pamhc2foodcore.groundfishitem": "간 생선",
+"item.pamhc2foodcore.fishsticksitem": "피쉬 스틱",
+"item.pamhc2foodcore.basicfishsandwichitem": "기본 피쉬 샌드위치",
+"item.pamhc2foodcore.fishjerkyitem": "생선 육포",
+"item.pamhc2foodcore.fishandchipsitem": "피쉬 앤 칩스",
+
+//mutton
+"item.pamhc2foodcore.groundmuttonitem": "간 양고기",
+"item.pamhc2foodcore.muttonjerkyitem": "양고기 육포",
+
+//rabbit
+"item.pamhc2foodcore.groundrabbititem": "간 토끼고기",
+"item.pamhc2foodcore.rabbitjerkyitem": "토끼고기 육포",
+
+//potato
+"item.pamhc2foodcore.butteredbakedpotatoitem": "버터구이 감자",
+"item.pamhc2foodcore.mashedpotatoesitem": "으깬 감자",
+"item.pamhc2foodcore.friesitem": "감자튀김",
+"item.pamhc2foodcore.potatochipsitem": "포테이토 칩스",
+"item.pamhc2foodcore.potatosoupitem": "포테이토 수프",
+
+//carrot
+"item.pamhc2foodcore.glazedcarrotsitem": "글레이즈드 캐럿",
+"item.pamhc2foodcore.carrotsoupitem": "당근 수프",
+
+//beet
+"item.pamhc2foodcore.pickledbeetsitem": "사탕무 절임",
+
+//pumpkin
+"item.pamhc2foodcore.pumpkinsoupitem": "호박 수프",
+
+//sugar
+"item.pamhc2foodcore.caramelitem": "캐러멜",
+"item.pamhc2foodcore.caramelappleitem": "캐러멜 사과",
+"item.pamhc2foodcore.marshmellowsitem": "마시멜로",
+"item.pamhc2foodcore.marshmellowchicksitem": "마시멜로 칙스",
+"item.pamhc2foodcore.cottoncandyitem": "솜사탕",
+"item.pamhc2foodcore.gummybearsitem": "구미베어",
+"item.pamhc2foodcore.jellybeansitem": "젤리 빈",
+
+//misc
+"item.pamhc2foodcore.cookingoilitem": "식용유",
+"item.pamhc2foodcore.vinegaritem": "식초",
+"item.pamhc2foodcore.freshwateritem": "신선한 물",
+"item.pamhc2foodcore.freshmilkitem": "신선한 우유",
+"item.pamhc2foodcore.saltitem": "소금",
+"item.pamhc2foodcore.stockitem": "비축물",
+
+//generic food
+"item.pamhc2foodcore.fruitpunchitem": "과일 펀치",
+"item.pamhc2foodcore.stewitem": "스튜",
+"item.pamhc2foodcore.bakedvegetablemedlyitem": "구운 채소 메들리",
+"item.pamhc2foodcore.fruitsaladitem": "과일 샐러드",
+"item.pamhc2foodcore.meatloafitem": "미트로프",
+"item.pamhc2foodcore.p8juiceitem": "P8 주스",
+"item.pamhc2foodcore.fruitcrumbleitem": "과일 크럼블"
+}
