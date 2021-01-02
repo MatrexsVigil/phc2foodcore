@@ -1,0 +1,181 @@
+{
+	"itemGroup.pamhc2foodcore": "潘马斯之大丰收2-核心食物",
+
+
+
+"item.pamhc2foodcore.bakewareitem": "烤盘",
+"item.pamhc2foodcore.cuttingboarditem": "砧板",
+"item.pamhc2foodcore.juiceritem": "榨汁器",
+"item.pamhc2foodcore.grinderitem": "磨皿",
+"item.pamhc2foodcore.mixingbowlitem": "搅拌碗",
+"item.pamhc2foodcore.potitem": "锅",
+"item.pamhc2foodcore.rolleritem": "擀面杖",
+"item.pamhc2foodcore.saucepanitem": "炖锅",
+"item.pamhc2foodcore.skilletitem": "平底锅",
+
+
+"item.pamhc2foodcore.flouritem": "面粉",
+"item.pamhc2foodcore.doughitem": "面团",
+"item.pamhc2foodcore.toastitem": "吐司",
+"item.pamhc2foodcore.grilledcheeseitem": "烤奶酪",
+"item.pamhc2foodcore.carrotbreaditem": "胡萝卜面包",
+"item.pamhc2foodcore.pumpkinbreaditem": "南瓜面包",
+"item.pamhc2foodcore.pastaitem": "意大利面",
+"item.pamhc2foodcore.macncheeseitem": "美式奶酪",
+"item.pamhc2foodcore.noodlesoupitem": "面汤",
+"item.pamhc2foodcore.applepieitem": "苹果派",
+"item.pamhc2foodcore.sweetberrypieitem": "甜浆果派",
+"item.pamhc2foodcore.chocolatecupcakeitem": "巧克力 纸杯蛋糕",
+"item.pamhc2foodcore.carrotcupcakeitem": "胡萝卜 纸杯蛋糕",
+"item.pamhc2foodcore.pumpkincupcakeitem": "南瓜 纸杯蛋糕",
+"item.pamhc2foodcore.caramelcupcakeitem": "焦糖 纸杯蛋糕",
+
+
+"item.pamhc2foodcore.batteritem": "面糊",
+"item.pamhc2foodcore.chocolatecakeitem": "巧克力蛋糕",
+"item.pamhc2foodcore.cheesecakeitem": "奶酪蛋糕",
+"item.pamhc2foodcore.pumpkincheesecakeitem": "南瓜奶酪蛋糕",
+"item.pamhc2foodcore.carrotcakeitem": "胡萝卜蛋糕",
+"item.pamhc2foodcore.chocolatemuffinitem": "巧克力松饼",
+"item.pamhc2foodcore.carrotmuffinitem": "胡萝卜松饼",
+"item.pamhc2foodcore.pumpkinmuffinitem": "南瓜松饼",
+"item.pamhc2foodcore.caramelmuffinitem": "焦糖松饼",
+"item.pamhc2foodcore.donutitem": "甜甜圈",
+"item.pamhc2foodcore.chocolatedonutitem": "巧克力甜甜圈",
+"item.pamhc2foodcore.jellydonutitem": "果冻甜甜圈",
+
+"item.pamhc2foodcore.crackeritem": "咸饼干",
+"item.pamhc2foodcore.softpretzelitem": "椒盐卷饼",
+
+
+"item.pamhc2foodcore.butteritem": "黄油",
+"item.pamhc2foodcore.cheeseitem": "奶酪",
+"item.pamhc2foodcore.creamitem": "奶油",
+"item.pamhc2foodcore.yogurtitem": "酸奶",
+"item.pamhc2foodcore.chocolateyogurtitem": "巧克力酸奶",
+"item.pamhc2foodcore.appleyogurtitem": "苹果酸奶",
+"item.pamhc2foodcore.sweetberryyogurtitem": "甜浆果酸奶",
+"item.pamhc2foodcore.pumpkinyogurtitem": "南瓜酸奶",
+"item.pamhc2foodcore.caramelyogurtitem": "焦糖酸奶",
+"item.pamhc2foodcore.icecreamitem": "冰激凌",
+"item.pamhc2foodcore.chocolateicecreamitem": "巧克力冰激凌",
+"item.pamhc2foodcore.caramelicecreamitem": "焦糖冰激凌",
+"item.pamhc2foodcore.cookiesandmilkitem": "曲奇泡奶",
+
+
+"item.pamhc2foodcore.chocolatebaritem": "巧克力棒",
+"item.pamhc2foodcore.cocoapowderitem": "可可粉",
+"item.pamhc2foodcore.hotchocolateitem": "热巧克力",
+"item.pamhc2foodcore.chocolatebaconitem": "巧克力培根",
+"item.pamhc2foodcore.chocolatepuddingitem": "巧克力布丁",
+"item.pamhc2foodcore.chocolaterollitem": "巧克力卷",
+"item.pamhc2foodcore.chocolatecaramelfudgeitem": "巧克力软焦糖",
+"item.pamhc2foodcore.smoresitem": "斯莫尔脆饼",
+"item.pamhc2foodcore.trailmixitem": "果粒谷物麦片",
+
+
+"item.pamhc2foodcore.mayonaiseitem": "蛋黄酱",
+"item.pamhc2foodcore.boiledeggitem": "煮蛋",
+"item.pamhc2foodcore.friedeggitem": "煎蛋",
+"item.pamhc2foodcore.scrambledeggitem": "炒蛋",
+
+
+"item.pamhc2foodcore.applejuiceitem": "苹果汁",
+"item.pamhc2foodcore.applesmoothieitem": "苹果奶昔",
+"item.pamhc2foodcore.applejellyitem": "苹果果冻",
+"item.pamhc2foodcore.applejellytoastitem": "苹果果冻吐司",
+"item.pamhc2foodcore.applesauceitem": "苹果酱",
+
+
+"item.pamhc2foodcore.melonjuiceitem": "西瓜汁",
+"item.pamhc2foodcore.melonsmoothieitem": "西瓜奶昔",
+"item.pamhc2foodcore.melonjellyitem": "西瓜果冻",
+"item.pamhc2foodcore.melonjellytoastitem": "西瓜果冻吐司",
+
+
+"item.pamhc2foodcore.sweetberryjuiceitem": "甜浆果汁",
+"item.pamhc2foodcore.sweetberrysmoothieitem": "甜浆果奶昔",
+"item.pamhc2foodcore.sweetberryjellyitem": "甜浆果冻",
+"item.pamhc2foodcore.sweetberryjellytoastitem": "甜浆果冻吐司",
+
+"item.pamhc2foodcore.friedchickenitem": "炸鸡",
+"item.pamhc2foodcore.groundchickenitem": "鸡肉馅",
+"item.pamhc2foodcore.chickennuggetitem": "鸡块",
+"item.pamhc2foodcore.basicchickensandwichitem": "鸡肉三明治",
+"item.pamhc2foodcore.chickenjerkyitem": "鸡肉干",
+"item.pamhc2foodcore.chickenpotpieitem": "鸡肉派",
+"item.pamhc2foodcore.chickendinneritem": "鸡肉大餐",
+
+
+"item.pamhc2foodcore.potroastitem": "牛腩焖肉",
+"item.pamhc2foodcore.groundbeefitem": "牛肉馅",
+"item.pamhc2foodcore.basichamburgeritem": "汉堡",
+"item.pamhc2foodcore.basiccheeseburgeritem": "芝士汉堡",
+"item.pamhc2foodcore.baconcheeseburgeritem": "培根芝士汉堡",
+"item.pamhc2foodcore.beefjerkyitem": "牛肉干",
+
+
+"item.pamhc2foodcore.groundporkitem": "猪肉馅",
+"item.pamhc2foodcore.porkjerkyitem": "猪肉干",
+"item.pamhc2foodcore.hotdogitem": "烤肠",
+"item.pamhc2foodcore.baconandeggsitem": "培根加蛋",
+"item.pamhc2foodcore.epicbaconitem": "香烤五花肉",
+
+
+"item.pamhc2foodcore.groundfishitem": "鱼肉馅",
+"item.pamhc2foodcore.fishsticksitem": "鱼糕",
+"item.pamhc2foodcore.basicfishsandwichitem": "鲜鱼三明治",
+"item.pamhc2foodcore.fishjerkyitem": "小鱼干",
+"item.pamhc2foodcore.fishandchipsitem": "鱼烤薯条",
+
+
+"item.pamhc2foodcore.groundmuttonitem": "羊肉馅",
+"item.pamhc2foodcore.muttonjerkyitem": "羊肉干",
+
+
+"item.pamhc2foodcore.groundrabbititem": "兔肉馅",
+"item.pamhc2foodcore.rabbitjerkyitem": "兔肉干",
+
+
+"item.pamhc2foodcore.butteredbakedpotatoitem": "油烤土豆",
+"item.pamhc2foodcore.mashedpotatoesitem": "土豆泥",
+"item.pamhc2foodcore.friesitem": "薯条",
+"item.pamhc2foodcore.potatochipsitem": "薯片",
+"item.pamhc2foodcore.potatosoupitem": "土豆汤",
+
+
+"item.pamhc2foodcore.glazedcarrotsitem": "胡萝卜拌白糖",
+"item.pamhc2foodcore.carrotsoupitem": "胡萝卜汤",
+
+
+"item.pamhc2foodcore.pickledbeetsitem": "腌甜菜",
+
+
+"item.pamhc2foodcore.pumpkinsoupitem": "南瓜汤",
+
+
+"item.pamhc2foodcore.caramelitem": "焦糖",
+"item.pamhc2foodcore.caramelappleitem": "焦糖苹果",
+"item.pamhc2foodcore.marshmellowsitem": "棉花糖块",
+"item.pamhc2foodcore.marshmellowchicksitem": "小鸡棉花糖",
+"item.pamhc2foodcore.cottoncandyitem": "棉花糖",
+"item.pamhc2foodcore.gummybearsitem": "小熊橡皮糖",
+"item.pamhc2foodcore.jellybeansitem": "软糖豆",
+
+
+"item.pamhc2foodcore.cookingoilitem": "食用油",
+"item.pamhc2foodcore.vinegaritem": "醋",
+"item.pamhc2foodcore.freshwateritem": "纯净水",
+"item.pamhc2foodcore.freshmilkitem": "鲜牛奶",
+"item.pamhc2foodcore.saltitem": "盐",
+"item.pamhc2foodcore.stockitem": "汤底",
+
+
+"item.pamhc2foodcore.fruitpunchitem": "果香喷趣汁",
+"item.pamhc2foodcore.stewitem": "香浓肉蔬汤",
+"item.pamhc2foodcore.bakedvegetablemedlyitem": "蔬菜拼盘",
+"item.pamhc2foodcore.fruitsaladitem": "水果沙拉",
+"item.pamhc2foodcore.meatloafitem": "烘肉卷",
+"item.pamhc2foodcore.p8juiceitem": "P8果蔬汁",
+"item.pamhc2foodcore.fruitcrumbleitem": "水果松脆饼"
+}
