@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "item": "pamhc2foodcore:groundchickenitem"
+    },
+	{
+      "tag": "forge:condiments"
+    },
+{
+      "tag": "forge:bread"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:basicchickensandwichitem",
+	"count": 1}
+	
+}

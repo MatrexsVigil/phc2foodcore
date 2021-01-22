@@ -1,0 +1,16 @@
+{
+		"replace": false,
+		"values": [
+		"#forge:crops/apple",
+"#forge:crops/beetroot",
+"#forge:crops/carrot",
+"#forge:crops/chorusfruit",
+"#forge:crops/cocoabeans",
+"#forge:crops/melon",
+"#forge:crops/potato",
+"#forge:crops/pumpkin",
+"#forge:crops/sweetberry",
+"#forge:crops/wheat"
+
+	]
+}

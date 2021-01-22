@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:cracker"
+    },
+    {
+      "tag": "forge:marshmellows"
+    },
+    {
+      "tag": "forge:chocolatebar"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:smoresitem",
+	"count": 1}
+	
+}

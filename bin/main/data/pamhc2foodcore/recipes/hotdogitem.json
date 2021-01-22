@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodcore:groundporkitem"
+    },
+{
+      "tag": "forge:bread"
+    },
+{
+      "tag": "forge:condiments"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:hotdogitem",
+	"count": 1}
+	
+}

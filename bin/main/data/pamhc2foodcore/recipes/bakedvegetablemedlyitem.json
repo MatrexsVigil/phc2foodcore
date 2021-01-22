@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:vegetables"
+    },
+    {
+      "tag": "forge:vegetables"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:bakedvegetablemedlyitem",
+	"count": 1}
+	
+}

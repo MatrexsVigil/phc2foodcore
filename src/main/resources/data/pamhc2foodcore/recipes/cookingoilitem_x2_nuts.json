@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_roller"
+    },
+    {
+      "tag": "forge:nuts"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:cookingoilitem",
+	"count": 2}
+	
+}

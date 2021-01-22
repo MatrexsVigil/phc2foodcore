@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:dyes"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:marshmellowchicksitem",
+	"count": 1}
+	
+}

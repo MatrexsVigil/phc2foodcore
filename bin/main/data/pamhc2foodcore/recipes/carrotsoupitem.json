@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:crops/carrot"
+    },
+    {
+      "tag": "forge:stock"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:carrotsoupitem",
+	"count": 1}
+	
+}

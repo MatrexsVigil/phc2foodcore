@@ -1,0 +1,9 @@
+{
+		"replace": false,
+		"values": [
+"#forge:mushrooms/brownmushroom",
+"#forge:mushrooms/redmushroom",
+"#forge:mushrooms/crimsonfungus",
+"#forge:mushrooms/warpedfungus"
+	]
+}

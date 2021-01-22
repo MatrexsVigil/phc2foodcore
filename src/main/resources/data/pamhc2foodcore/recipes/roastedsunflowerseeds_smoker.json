@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:smoking",
+	"ingredient": {"tag": "forge:nuts/sunflowerseeds"},
+	"result": "pamhc2foodcore:roastedsunflowerseedsitem",
+	"experience": 0.35,
+	"cookingtime": 100
+
+}

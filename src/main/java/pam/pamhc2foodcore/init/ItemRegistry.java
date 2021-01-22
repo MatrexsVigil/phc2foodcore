@@ -176,6 +176,8 @@ public class ItemRegistry {
 	public static Item freshmilkitem;
 	public static Item saltitem;
 	public static Item stockitem;
+	public static Item sunflowerseedsitem;
+	public static Item roastedsunflowerseedsitem;
 
 	//generic food
 	public static Item fruitpunchitem;
@@ -361,6 +363,8 @@ public class ItemRegistry {
 		freshmilkitem = register("freshmilkitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP)));//INEDIBLE
 		saltitem = register("saltitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP)));//INEDIBLE
 		stockitem = register("stockitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.STOCKITEM)));
+		sunflowerseedsitem = register("sunflowerseedsitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.SUNFLOWERSEEDSITEM)));
+		roastedsunflowerseedsitem = register("roastedsunflowerseedsitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.ROASTEDSUNFLOWERSEEDSITEM)));
 
 		//generic food
 		fruitpunchitem = register("fruitpunchitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.FRUITPUNCHITEM)));

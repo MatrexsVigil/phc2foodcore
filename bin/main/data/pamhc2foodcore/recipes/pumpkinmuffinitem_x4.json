@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+
+    {
+      "tag": "forge:crops/pumpkin"
+    },
+    {
+      "tag": "forge:batter"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:pumpkinmuffinitem",
+	"count": 4}
+	
+}

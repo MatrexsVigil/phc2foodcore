@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+
+    {
+      "tag": "forge:cocoapowder"
+    },
+    {
+      "tag": "forge:batter"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:chocolatemuffinitem",
+	"count": 4}
+	
+}

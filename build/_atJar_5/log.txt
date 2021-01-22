@@ -1,0 +1,5 @@
+Args: "--inJar", "C:\Users\world\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.3-34.1.1\forge-1.16.3-34.1.1-injected.jar", "--outJar", "C:\Users\world\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.3-34.1.1_mapped_snapshot_20200916-1.16.2\forge-1.16.3-34.1.1_mapped_snapshot_20200916-1.16.2.jar", "--logFile", "accesstransform.log", "--atFile", "C:\Users\world\Desktop\1163FoodCore\build\_atJar_5\parent_at.cfg"
+Classpath: C:\Users\world\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\1.0.5\accesstransformers-1.0.5-fatjar.jar
+WorkDir: C:\Users\world\Desktop\1163FoodCore\build\_atJar_5
+Main: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================

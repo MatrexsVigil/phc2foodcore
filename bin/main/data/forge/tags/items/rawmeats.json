@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+"#forge:rawmeats/rawbeef",
+"#forge:rawmeats/rawchicken",
+"#forge:rawmeats/rawcod",
+"#forge:rawmeats/rawmutton",
+"#forge:rawmeats/rawpork",
+"#forge:rawmeats/rawrabbit",
+"#forge:rawmeats/rawsalmon",
+"#forge:rawmeats/rawtropicalfish"
+	]
+}

@@ -159,6 +159,8 @@ public static final Food JELLYBEANSITEM = (new Food.Builder()).hunger(4).saturat
 // FRESHMILKITEM 1
 // SALTITEM 2
 public static final Food STOCKITEM = (new Food.Builder()).hunger(5).saturation(1.2F).build();
+public static final Food SUNFLOWERSEEDSITEM = (new Food.Builder()).hunger(1).saturation(1.2F).build();
+public static final Food ROASTEDSUNFLOWERSEEDSITEM = (new Food.Builder()).hunger(5).saturation(1.2F).build();
 
 //GENERIC FOOD
 public static final Food FRUITPUNCHITEM = (new Food.Builder()).hunger(13).saturation(1.2F).build();

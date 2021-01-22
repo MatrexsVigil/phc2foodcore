@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+"pattern": [
+    "a  ",
+    " b ",
+    "  c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:brick"
+    },
+    "b": {
+      "tag" :"forge:rods/wooden"
+    },
+    "c": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "pamhc2foodcore:cuttingboarditem"
+  }
+	
+}
