@@ -1,5 +1,5 @@
 // @file build.gradle
-// pamhc2foodcore mod gradle build relay (mc1.14.4)
+// pamhc2foodcore mod gradle build relay (mc1.16.3)
 buildscript {
   repositories {
     maven { url = 'https://files.minecraftforge.net/maven' }
@@ -63,8 +63,6 @@ minecraft {
  
 dependencies {
   minecraft "net.minecraftforge:forge:${version_forge_minecraft}"
-  compileOnly fg.deobf("mezz.jei:jei-${version_jei}:api")
-  runtimeOnly fg.deobf("mezz.jei:jei-${version_jei}")
 }
  
 processResources {
