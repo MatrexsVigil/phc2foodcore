@@ -1,0 +1,22 @@
+{
+  "textures": {
+    "particle": "pamhc2foodcore:block/pumpkincheesecake_side",
+    "bottom": "pamhc2foodcore:block/pumpkincheesecake_bottom",
+    "top": "pamhc2foodcore:block/pumpkincheesecake_top",
+    "side": "pamhc2foodcore:block/pumpkincheesecake_side",
+    "inside": "pamhc2foodcore:block/pumpkincheesecake_inner"
+  },
+  "elements": [
+    { "from": [ 11, 0, 1 ],
+      "to": [ 15, 8, 15 ],
+      "faces": {
+        "down":  { "texture": "#bottom", "cullface": "down" },
+        "up":    { "texture": "#top" },
+        "north": { "texture": "#side" },
+        "south": { "texture": "#side" },
+        "west":  { "texture": "#inside" },
+        "east":  { "texture": "#side" }
+      }
+    }
+  ]
+}

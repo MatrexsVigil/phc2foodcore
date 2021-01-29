@@ -1,0 +1,22 @@
+{
+  "textures": {
+    "particle": "pamhc2foodcore:block/cheesecake_side",
+    "bottom": "pamhc2foodcore:block/cheesecake_bottom",
+    "top": "pamhc2foodcore:block/cheesecake_top",
+    "side": "pamhc2foodcore:block/cheesecake_side",
+    "inside": "pamhc2foodcore:block/cheesecake_inner"
+  },
+  "elements": [
+    { "from": [ 13, 0, 1 ],
+      "to": [ 15, 8, 15 ],
+      "faces": {
+        "down":  { "texture": "#bottom", "cullface": "down" },
+        "up":    { "texture": "#top" },
+        "north": { "texture": "#side" },
+        "south": { "texture": "#side" },
+        "west":  { "texture": "#inside" },
+        "east":  { "texture": "#side" }
+      }
+    }
+  ]
+}
