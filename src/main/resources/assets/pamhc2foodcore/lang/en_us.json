@@ -32,10 +32,10 @@
 
 
 "item.pamhc2foodcore.batteritem": "Batter",
-"item.pamhc2foodcore.chocolatecakeitem": "Chocolate Cake",
-"item.pamhc2foodcore.cheesecakeitem": "Cheese Cake",
-"item.pamhc2foodcore.pumpkincheesecakeitem": "Pumpkin Cheese Cake",
-"item.pamhc2foodcore.carrotcakeitem": "Carrot Cake",
+"block.pamhc2foodcore.chocolatecakeblock": "Chocolate Cake",
+"block.pamhc2foodcore.cheesecakeblock": "Cheese Cake",
+"block.pamhc2foodcore.pumpkincheesecakeblock": "Pumpkin Cheese Cake",
+"block.pamhc2foodcore.carrotcakeblock": "Carrot Cake",
 "item.pamhc2foodcore.chocolatemuffinitem": "Chocolate Muffin",
 "item.pamhc2foodcore.carrotmuffinitem": "Carrot Muffin",
 "item.pamhc2foodcore.pumpkinmuffinitem": "Pumpkin Muffin",
