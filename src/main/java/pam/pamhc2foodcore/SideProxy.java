@@ -1,5 +1,6 @@
 package pam.pamhc2foodcore;
 
+import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
@@ -9,6 +10,7 @@ import net.minecraftforge.fml.event.lifecycle.InterModEnqueueEvent;
 import net.minecraftforge.fml.event.lifecycle.InterModProcessEvent;
 import net.minecraftforge.fml.event.server.FMLServerStartingEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import pam.pamhc2foodcore.init.BlockRegistry;
 import pam.pamhc2foodcore.init.ItemRegistry;
 
 public class SideProxy {
@@ -19,7 +21,8 @@ public class SideProxy {
 		FMLJavaModLoadingContext.get().getModEventBus().addListener(SideProxy::processIMC);
 		
 		FMLJavaModLoadingContext.get().getModEventBus().addGenericListener(Item.class, ItemRegistry::registerAll);
-	
+		FMLJavaModLoadingContext.get().getModEventBus().addGenericListener(Block.class, BlockRegistry::registerAll);
+
 		//Config.loadConfig(Config.CONFIG, FMLPaths.CONFIGDIR.get().resolve("pamhc2foodcore.toml").toString());
 
 		MinecraftForge.EVENT_BUS.addListener(SideProxy::serverStarting);

@@ -22,10 +22,6 @@ public static final Food PUMPKINCUPCAKEITEM = (new Food.Builder()).hunger(2).sat
 public static final Food CARAMELCUPCAKEITEM = (new Food.Builder()).hunger(2).saturation(1.2F).build();
 
 // BATTERITEM 4
-public static final Food CHOCOLATECAKEITEM = (new Food.Builder()).hunger(7).saturation(1.2F).build();
-public static final Food CHEESECAKEITEM = (new Food.Builder()).hunger(9).saturation(1.2F).build();
-public static final Food PUMPKINCHEESECAKEITEM = (new Food.Builder()).hunger(12).saturation(1.2F).build();
-public static final Food CARROTCAKEITEM = (new Food.Builder()).hunger(9).saturation(1.2F).build();
 public static final Food CHOCOLATEMUFFINITEM = (new Food.Builder()).hunger(3).saturation(1.2F).build();
 public static final Food CARROTMUFFINITEM = (new Food.Builder()).hunger(3).saturation(1.2F).build();
 public static final Food PUMPKINMUFFINITEM = (new Food.Builder()).hunger(3).saturation(1.2F).build();

@@ -1,5 +1,6 @@
 package pam.pamhc2foodcore.init;
 
+import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.event.RegistryEvent;
@@ -225,10 +226,10 @@ public class ItemRegistry {
 		caramelcupcakeitem = register("caramelcupcakeitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.CARAMELCUPCAKEITEM)));
 
 		batteritem = register("batteritem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP)));//INEDIBLE
-		chocolatecakeitem = register("chocolatecakeitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.CHOCOLATECAKEITEM)));
-		cheesecakeitem = register("cheesecakeitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.CHEESECAKEITEM)));
-		pumpkincheesecakeitem = register("pumpkincheesecakeitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.PUMPKINCHEESECAKEITEM)));
-		carrotcakeitem = register("carrotcakeitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.CARROTCAKEITEM)));
+		chocolatecakeitem = register("chocolatecakeitem", new BlockItem(BlockRegistry.chocolatecakeblock, new Item.Properties().group(Pamhc2foodcore.ITEM_GROUP)));
+		cheesecakeitem = register("cheesecakeitem", new BlockItem(BlockRegistry.cheesecakeblock, new Item.Properties().group(Pamhc2foodcore.ITEM_GROUP)));
+		pumpkincheesecakeitem = register("pumpkincheesecakeitem", new BlockItem(BlockRegistry.pumpkincheesecakeblock, new Item.Properties().group(Pamhc2foodcore.ITEM_GROUP)));
+		carrotcakeitem = register("carrotcakeitem", new BlockItem(BlockRegistry.carrotcakeblock, new Item.Properties().group(Pamhc2foodcore.ITEM_GROUP)));
 		chocolatemuffinitem = register("chocolatemuffinitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.CHOCOLATEMUFFINITEM)));
 		carrotmuffinitem = register("carrotmuffinitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.CARROTMUFFINITEM)));
 		pumpkinmuffinitem = register("pumpkinmuffinitem", new Item((new Item.Properties()).group(Pamhc2foodcore.ITEM_GROUP).food(FoodBuilderRegistry.PUMPKINMUFFINITEM)));
