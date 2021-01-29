@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "bites=0": { "model": "pamhc2foodcore:block/chocolatecake" },
+    "bites=1": { "model": "pamhc2foodcore:block/chocolatecakeslice1" },
+    "bites=2": { "model": "pamhc2foodcore:block/chocolatecakeslice2" },
+    "bites=3": { "model": "pamhc2foodcore:block/chocolatecakeslice3" },
+    "bites=4": { "model": "pamhc2foodcore:block/chocolatecakeslice4" },
+    "bites=5": { "model": "pamhc2foodcore:block/chocolatecakeslice5" },
+    "bites=6": { "model": "pamhc2foodcore:block/chocolatecakeslice6" }
+  }
+}

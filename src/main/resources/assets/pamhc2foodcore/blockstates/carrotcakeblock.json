@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "bites=0": { "model": "pamhc2foodcore:block/carrotcake" },
+    "bites=1": { "model": "pamhc2foodcore:block/carrotcakeslice1" },
+    "bites=2": { "model": "pamhc2foodcore:block/carrotcakeslice2" },
+    "bites=3": { "model": "pamhc2foodcore:block/carrotcakeslice3" },
+    "bites=4": { "model": "pamhc2foodcore:block/carrotcakeslice4" },
+    "bites=5": { "model": "pamhc2foodcore:block/carrotcakeslice5" },
+    "bites=6": { "model": "pamhc2foodcore:block/carrotcakeslice6" }
+  }
+}

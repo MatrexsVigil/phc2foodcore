@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "bites=0": { "model": "pamhc2foodcore:block/pumpkincheesecake" },
+    "bites=1": { "model": "pamhc2foodcore:block/pumpkincheesecakeslice1" },
+    "bites=2": { "model": "pamhc2foodcore:block/pumpkincheesecakeslice2" },
+    "bites=3": { "model": "pamhc2foodcore:block/pumpkincheesecakeslice3" },
+    "bites=4": { "model": "pamhc2foodcore:block/pumpkincheesecakeslice4" },
+    "bites=5": { "model": "pamhc2foodcore:block/pumpkincheesecakeslice5" },
+    "bites=6": { "model": "pamhc2foodcore:block/pumpkincheesecakeslice6" }
+  }
+}
