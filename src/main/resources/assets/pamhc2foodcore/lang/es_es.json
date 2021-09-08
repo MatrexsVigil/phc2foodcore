@@ -1,0 +1,184 @@
+{
+	"itemGroup.pamhc2foodcore": "Pam's HarvestCraft 2 - Núcleo de alimentos",
+
+	
+	//tools
+"item.pamhc2foodcore.bakewareitem": "Recipiente de cristal",
+"item.pamhc2foodcore.cuttingboarditem": "Tabla de cortar",
+"item.pamhc2foodcore.juiceritem": "Exprimidor",
+"item.pamhc2foodcore.grinderitem": "Mortero",
+"item.pamhc2foodcore.mixingbowlitem": "Tazón de mezcla",
+"item.pamhc2foodcore.potitem": "Olla",
+"item.pamhc2foodcore.rolleritem": "Rodillo",
+"item.pamhc2foodcore.saucepanitem": "Cacerola",
+"item.pamhc2foodcore.skilletitem": "Sartén",
+
+//wheat
+"item.pamhc2foodcore.flouritem": "Harina",
+"item.pamhc2foodcore.doughitem": "Masa espesa",
+"item.pamhc2foodcore.toastitem": "Tostada",
+"item.pamhc2foodcore.grilledcheeseitem": "Sandwich de queso a la parilla",
+"item.pamhc2foodcore.carrotbreaditem": "Pan de zanahoria",
+"item.pamhc2foodcore.pumpkinbreaditem": "Pan de calabaza",
+"item.pamhc2foodcore.pastaitem": "Pasta",
+"item.pamhc2foodcore.macncheeseitem": "Macarrones con queso",
+"item.pamhc2foodcore.noodlesoupitem": "Sopa de fideos",
+"item.pamhc2foodcore.applepieitem": "Tarta de manzana",
+"item.pamhc2foodcore.sweetberrypieitem": "Tarta de bayas dulces",
+"item.pamhc2foodcore.chocolatecupcakeitem": "Cupcake de chocolate",
+"item.pamhc2foodcore.carrotcupcakeitem": "Cupcake de zanahoria",
+"item.pamhc2foodcore.pumpkincupcakeitem": "Cupcake de calabaza",
+"item.pamhc2foodcore.caramelcupcakeitem": "Cupcake de caramelo",
+
+
+"item.pamhc2foodcore.batteritem": "Masa líquida",
+"item.pamhc2foodcore.chocolatecakeitem": "Pastel de chocolate",
+"item.pamhc2foodcore.cheesecakeitem": "Pastel de queso",
+"item.pamhc2foodcore.pumpkincheesecakeitem": "Pastel de calabaza y queso",
+"item.pamhc2foodcore.carrotcakeitem": "Pastel de zanahoria",
+"item.pamhc2foodcore.chocolatemuffinitem": "Muffin de chocolate",
+"item.pamhc2foodcore.carrotmuffinitem": "Muffin de zanahoria",
+"item.pamhc2foodcore.pumpkinmuffinitem": "Muffin de calabaza",
+"item.pamhc2foodcore.caramelmuffinitem": "Muffin de caramelo",
+"item.pamhc2foodcore.donutitem": "Donut",
+"item.pamhc2foodcore.chocolatedonutitem": "Donut de chocolate",
+"item.pamhc2foodcore.jellydonutitem": "Donut con mermelada",
+
+"item.pamhc2foodcore.crackeritem": "Galleta",
+"item.pamhc2foodcore.softpretzelitem": "Pretzel suave",
+
+//milk
+"item.pamhc2foodcore.butteritem": "Mantquilla",
+"item.pamhc2foodcore.cheeseitem": "Queso",
+"item.pamhc2foodcore.creamitem": "Nata",
+"item.pamhc2foodcore.yogurtitem": "Yogur",
+"item.pamhc2foodcore.chocolateyogurtitem": "Yogur de chocolate",
+"item.pamhc2foodcore.appleyogurtitem": "Yogur de manzana",
+"item.pamhc2foodcore.sweetberryyogurtitem": "Yogur de bayas dulces",
+"item.pamhc2foodcore.pumpkinyogurtitem": "Yogur de calabaza",
+"item.pamhc2foodcore.caramelyogurtitem": "Yogur de caramelo",
+"item.pamhc2foodcore.icecreamitem": "Helado",
+"item.pamhc2foodcore.chocolateicecreamitem": "Helado de chocolate",
+"item.pamhc2foodcore.caramelicecreamitem": "Helado de caramelo",
+"item.pamhc2foodcore.cookiesandmilkitem": "Leche y galletas",
+
+//cocoa
+"item.pamhc2foodcore.chocolatebaritem": "Tableta de chocolate",
+"item.pamhc2foodcore.cocoapowderitem": "Cacao en polvo",
+"item.pamhc2foodcore.hotchocolateitem": "Chocolate caliente",
+"item.pamhc2foodcore.chocolatebaconitem": "Beicon de chocolate",
+"item.pamhc2foodcore.chocolatepuddingitem": "Budín de chocolate",
+"item.pamhc2foodcore.chocolaterollitem": "Rollo de chocolate",
+"item.pamhc2foodcore.chocolatecaramelfudgeitem": "Fudge de chocolate y caramelo",
+"item.pamhc2foodcore.smoresitem": "Smores",
+"item.pamhc2foodcore.trailmixitem": "Mezcla de frutos secos",
+
+//egg
+"item.pamhc2foodcore.mayonaiseitem": "Mayonesa",
+"item.pamhc2foodcore.boiledeggitem": "Huevo cocido",
+"item.pamhc2foodcore.friedeggitem": "Huevo frito",
+"item.pamhc2foodcore.scrambledeggitem": "Huevos revueltos",
+
+//apple
+"item.pamhc2foodcore.applejuiceitem": "Zumo de manzana",
+"item.pamhc2foodcore.applesmoothieitem": "Batido de manzana",
+"item.pamhc2foodcore.applejellyitem": "Mermelada de manzana",
+"item.pamhc2foodcore.applejellytoastitem": "Tostada de mermelada de manzana",
+"item.pamhc2foodcore.applesauceitem": "Salsa de manzana",
+
+//melon
+"item.pamhc2foodcore.melonjuiceitem": "Zumo de sandía",
+"item.pamhc2foodcore.melonsmoothieitem": "Batido de sandía",
+"item.pamhc2foodcore.melonjellyitem": "Mermelada de sandía",
+"item.pamhc2foodcore.melonjellytoastitem": "Tostada de mermelada de sandía",
+
+//sweet berry
+"item.pamhc2foodcore.sweetberryjuiceitem": "Zumo de bayas dulces",
+"item.pamhc2foodcore.sweetberrysmoothieitem": "Batido de bayas dulces",
+"item.pamhc2foodcore.sweetberryjellyitem": "Mermelada de bayas dulces",
+"item.pamhc2foodcore.sweetberryjellytoastitem": "Tostada de mermelada de bayas dulces",
+
+//chicken
+"item.pamhc2foodcore.friedchickenitem": "Pollo frito",
+"item.pamhc2foodcore.groundchickenitem": "Pollo molido",
+"item.pamhc2foodcore.chickennuggetitem": "Nugget de pollo",
+"item.pamhc2foodcore.basicchickensandwichitem": "Sándwich de pollo básico",
+"item.pamhc2foodcore.chickenjerkyitem": "Pollo seco",
+"item.pamhc2foodcore.chickenpotpieitem": "Tarta de pollo",
+"item.pamhc2foodcore.chickendinneritem": "Cena de pollo",
+
+//beef
+"item.pamhc2foodcore.potroastitem": "Puchero",
+"item.pamhc2foodcore.groundbeefitem": "Ternera molida",
+"item.pamhc2foodcore.basichamburgeritem": "Hamburguesa básica",
+"item.pamhc2foodcore.basiccheeseburgeritem": "Hamburguesa básica con queso",
+"item.pamhc2foodcore.baconcheeseburgeritem": "Hamburguesa con queso y tocino",
+"item.pamhc2foodcore.beefjerkyitem": "Ternera seca",
+
+//pork
+"item.pamhc2foodcore.groundporkitem": "Cerdo molido",
+"item.pamhc2foodcore.porkjerkyitem": "Cerdo seco",
+"item.pamhc2foodcore.hotdogitem": "Perrito caliente",
+"item.pamhc2foodcore.baconandeggsitem": "Huevos y beicon",
+"item.pamhc2foodcore.epicbaconitem": "Beicon épico",
+
+//fish
+"item.pamhc2foodcore.groundfishitem": "Pescado molido",
+"item.pamhc2foodcore.fishsticksitem": "Palitos de pescado",
+"item.pamhc2foodcore.basicfishsandwichitem": "Sándwich de pescado básico",
+"item.pamhc2foodcore.fishjerkyitem": "Pescado seco",
+"item.pamhc2foodcore.fishandchipsitem": "Pescado y patatas fritas",
+
+//mutton
+"item.pamhc2foodcore.groundmuttonitem": "Cordero molido",
+"item.pamhc2foodcore.muttonjerkyitem": "Cordero seco",
+
+//rabbit
+"item.pamhc2foodcore.groundrabbititem": "Conejo molido",
+"item.pamhc2foodcore.rabbitjerkyitem": "Conejo seco",
+
+//potato
+"item.pamhc2foodcore.butteredbakedpotatoitem": "Patata al horno con mantequilla",
+"item.pamhc2foodcore.mashedpotatoesitem": "Puré de patatas",
+"item.pamhc2foodcore.friesitem": "Patatas fritas",
+"item.pamhc2foodcore.potatochipsitem": "Patatas fritas de bolsa",
+"item.pamhc2foodcore.potatosoupitem": "Sopa de patatas",
+
+//carrot
+"item.pamhc2foodcore.glazedcarrotsitem": "Zanahorias glaseadas",
+"item.pamhc2foodcore.carrotsoupitem": "Sopa de zanahoria",
+
+//beet
+"item.pamhc2foodcore.pickledbeetsitem": "Remolachas en escabeche",
+
+//pumpkin
+"item.pamhc2foodcore.pumpkinsoupitem": "Sopa de calabaza",
+
+//sugar
+"item.pamhc2foodcore.caramelitem": "Caramelo",
+"item.pamhc2foodcore.caramelappleitem": "Manzana caramelizada",
+"item.pamhc2foodcore.marshmellowsitem": "Malvaviscos",
+"item.pamhc2foodcore.marshmellowchicksitem": "Pollitos de malvavisco",
+"item.pamhc2foodcore.cottoncandyitem": "Algodón de azúcar",
+"item.pamhc2foodcore.gummybearsitem": "Ositos de gominola",
+"item.pamhc2foodcore.jellybeansitem": "Gominolas",
+
+//misc
+"item.pamhc2foodcore.cookingoilitem": "Aceite de cocina",
+"item.pamhc2foodcore.vinegaritem": "Vinagre",
+"item.pamhc2foodcore.freshwateritem": "Agua fresca",
+"item.pamhc2foodcore.freshmilkitem": "Leche fresca",
+"item.pamhc2foodcore.saltitem": "Sal",
+"item.pamhc2foodcore.stockitem": "Caldo",
+"item.pamhc2foodcore.sunflowerseedsitem": "Semillas de girasol",
+"item.pamhc2foodcore.roastedsunflowerseedsitem": "Semillas de girasol tostadas",
+
+//generic food
+"item.pamhc2foodcore.fruitpunchitem": "Ponche de frutas",
+"item.pamhc2foodcore.stewitem": "Estofado",
+"item.pamhc2foodcore.bakedvegetablemedlyitem": "Popurrí de verduras al horno",
+"item.pamhc2foodcore.fruitsaladitem": "Ensalada de frutas",
+"item.pamhc2foodcore.meatloafitem": "Pastel de carne",
+"item.pamhc2foodcore.p8juiceitem": "Zumo P8",
+"item.pamhc2foodcore.fruitcrumbleitem": "Crumble de frutas"
+}
