@@ -1,0 +1,201 @@
+{
+    "itemGroup.pamhc2foodcore": "",
+    
+    // tools
+    "_comment": "tools",
+    "item.pamhc2foodcore.bakewareitem": "Naczynie do pieczenia",
+    "item.pamhc2foodcore.cuttingboarditem": "Deska do krojenia",
+    "item.pamhc2foodcore.juiceritem": "Sokownik",
+    "item.pamhc2foodcore.grinderitem": "Moździerz",
+    "item.pamhc2foodcore.mixingbowlitem": "Miska do mieszania",
+    "item.pamhc2foodcore.potitem": "Garnek",
+    "item.pamhc2foodcore.rolleritem": "Wałek",
+    "item.pamhc2foodcore.saucepanitem": "Rondel",
+    "item.pamhc2foodcore.skilletitem": "Patelnia",
+    
+    // wheat
+    "_comment": "wheat",
+    "item.pamhc2foodcore.flouritem": "Mąka",
+    "item.pamhc2foodcore.doughitem": "Ciasto",
+    "item.pamhc2foodcore.toastitem": "Tost",
+    "item.pamhc2foodcore.grilledcheeseitem": "Tost z serem",
+    "item.pamhc2foodcore.carrotbreaditem": "Chleb marchewkowy",
+    "item.pamhc2foodcore.pumpkinbreaditem": "Chleb dyniowy",
+    "item.pamhc2foodcore.pastaitem": "Makaron",
+    "item.pamhc2foodcore.macncheeseitem": "Makaron z żółtym serem",
+    "item.pamhc2foodcore.noodlesoupitem": "Zupa z makaronem",
+    "item.pamhc2foodcore.applepieitem": "Szarlotka",
+    "item.pamhc2foodcore.sweetberrypieitem": "Ciasto ze słodkich jagód",
+    "item.pamhc2foodcore.chocolatecupcakeitem": "Czekoladowa babeczka",
+    "item.pamhc2foodcore.carrotcupcakeitem": "Marchewkowa babeczka",
+    "item.pamhc2foodcore.pumpkincupcakeitem": "Dyniowa babeczka",
+    "item.pamhc2foodcore.caramelcupcakeitem": "Karmelowa babeczka",
+    
+    "item.pamhc2foodcore.batteritem": "Panierka",
+    "item.pamhc2foodcore.chocolatecakeitem": "Czekoladowe ciasto",
+    "item.pamhc2foodcore.cheesecakeitem": "Sernik",
+    "item.pamhc2foodcore.pumpkincheesecakeitem": "Dyniowy sernik",
+    "item.pamhc2foodcore.carrotcakeitem": "Marchewkowe ciasto",
+    "item.pamhc2foodcore.chocolatemuffinitem": "Czekoladowa muffinka",
+    "item.pamhc2foodcore.carrotmuffinitem": "Marchewkowa muffinka",
+    "item.pamhc2foodcore.pumpkinmuffinitem": "Dyniowa muffinka",
+    "item.pamhc2foodcore.caramelmuffinitem": "Karmelowa muffinka",
+    "item.pamhc2foodcore.donutitem": "Pączek",
+    "item.pamhc2foodcore.chocolatedonutitem": "Czekoladowy pączek",
+    "item.pamhc2foodcore.jellydonutitem": "Pączek z dżemem",
+    
+    "item.pamhc2foodcore.crackeritem": "Krakers",
+    "item.pamhc2foodcore.softpretzelitem": "Precel",
+    
+    // milk
+    "_comment": "milk",
+    "item.pamhc2foodcore.butteritem": "Masło",
+    "item.pamhc2foodcore.cheeseitem": "Ser żółty",
+    "item.pamhc2foodcore.creamitem": "Śmietana",
+    "item.pamhc2foodcore.yogurtitem": "Jogurt",
+    "item.pamhc2foodcore.chocolateyogurtitem": "Jogurt czekoladowy",
+    "item.pamhc2foodcore.appleyogurtitem": "Jogurt jabłkowy",
+    "item.pamhc2foodcore.sweetberryyogurtitem": "Jogurt ze słodkich jagód",
+    "item.pamhc2foodcore.pumpkinyogurtitem": "Jogurt dyniowy",
+    "item.pamhc2foodcore.caramelyogurtitem": "Jogurt karmelowy",
+    "item.pamhc2foodcore.icecreamitem": "Lody",
+    "item.pamhc2foodcore.chocolateicecreamitem": "Lody czekoladowe",
+    "item.pamhc2foodcore.caramelicecreamitem": "Lody karmelowe",
+    "item.pamhc2foodcore.cookiesandmilkitem": "Ciasteczka z mlekiem",
+    
+    // cocoa
+    "_comment": "cocoa",
+    "item.pamhc2foodcore.chocolatebaritem": "Tabliczka czekolady",
+    "item.pamhc2foodcore.cocoapowderitem": "Kakao w proszku",
+    "item.pamhc2foodcore.hotchocolateitem": "Gorąca czekolada",
+    "item.pamhc2foodcore.chocolatebaconitem": "Boczek w czekoladzie",
+    "item.pamhc2foodcore.chocolatepuddingitem": "Czekoladowy pudding",
+    "item.pamhc2foodcore.chocolaterollitem": "Czekoladowa bułeczka",
+    "item.pamhc2foodcore.chocolatecaramelfudgeitem": "Krówka",
+    "item.pamhc2foodcore.smoresitem": "S'more",
+    "item.pamhc2foodcore.trailmixitem": "Mieszanka studencka",
+    
+    // egg
+    "_comment": "egg",
+    "item.pamhc2foodcore.mayonaiseitem": "Majonez",
+    "item.pamhc2foodcore.boiledeggitem": "Gotowane jajko",
+    "item.pamhc2foodcore.friedeggitem": "Jajko sadzone",
+    "item.pamhc2foodcore.scrambledeggitem": "Jajecznica",
+    
+    // apple
+    "_comment": "apple",
+    "item.pamhc2foodcore.applejuiceitem": "Sok jabłkowy",
+    "item.pamhc2foodcore.applesmoothieitem": "Smoothie jabłkowe",
+    "item.pamhc2foodcore.applejellyitem": "Dżem jabłkowy",
+    "item.pamhc2foodcore.applejellytoastitem": "Tost z dżemem jabłkowym",
+    "item.pamhc2foodcore.applesauceitem": "Mus jabłkowy",
+    
+    // melon
+    "_comment": "melon",
+    "item.pamhc2foodcore.melonjuiceitem": "Sok arbuzowy",
+    "item.pamhc2foodcore.melonsmoothieitem": "Smoothie arbuzowe",
+    "item.pamhc2foodcore.melonjellyitem": "Dżem arbuzowy",
+    "item.pamhc2foodcore.melonjellytoastitem": "Tost z dżemem arbuzowym",
+    
+    // sweet berry
+    "_comment": "sweet berry",
+    "item.pamhc2foodcore.sweetberryjuiceitem": "Sok ze słodkich jagód",
+    "item.pamhc2foodcore.sweetberrysmoothieitem": "Smoothie ze słodkich jagód",
+    "item.pamhc2foodcore.sweetberryjellyitem": "Dżem ze słodkich jagód",
+    "item.pamhc2foodcore.sweetberryjellytoastitem": "Tost z dżemem ze słodkich jagód",
+    
+    // chicken
+    "_comment": "chicken",
+    "item.pamhc2foodcore.friedchickenitem": "Smażony kurczak",
+    "item.pamhc2foodcore.groundchickenitem": "Mielone mięso z kurczaka",
+    "item.pamhc2foodcore.chickennuggetitem": "Kawałek kurczaka",
+    "item.pamhc2foodcore.basicchickensandwichitem": "Kanapka z kurczakiem",
+    "item.pamhc2foodcore.chickenjerkyitem": "Suszone mięso z kurczaka",
+    "item.pamhc2foodcore.chickenpotpieitem": "Zapiekanka z kurczakiem",
+    "item.pamhc2foodcore.chickendinneritem": "Danie z kurczaka",
+    
+    // beef
+    "_comment": "beef",
+    "item.pamhc2foodcore.potroastitem": "Duszona wołowina z warzywami",
+    "item.pamhc2foodcore.groundbeefitem": "Mielona wołowina",
+    "item.pamhc2foodcore.basichamburgeritem": "Hamburger",
+    "item.pamhc2foodcore.basiccheeseburgeritem": "Cheeseburger",
+    "item.pamhc2foodcore.baconcheeseburgeritem": "Cheeseburger z boczkiem",
+    "item.pamhc2foodcore.beefjerkyitem": "Suszona wołowina",
+    
+    // pork
+    "_comment": "pork",
+    "item.pamhc2foodcore.groundporkitem": "Mielona wieprzowina",
+    "item.pamhc2foodcore.porkjerkyitem": "Suszona wieprzowina",
+    "item.pamhc2foodcore.hotdogitem": "",
+    "item.pamhc2foodcore.baconandeggsitem": "Jajka z boczkiem",
+    "item.pamhc2foodcore.epicbaconitem": "Epicki bekon",
+    
+    // fish
+    "_comment": "fish",
+    "item.pamhc2foodcore.groundfishitem": "Mielona ryba",
+    "item.pamhc2foodcore.fishsticksitem": "Paluszki rybne",
+    "item.pamhc2foodcore.basicfishsandwichitem": "Kanapka z rybą",
+    "item.pamhc2foodcore.fishjerkyitem": "Suszona ryba",
+    "item.pamhc2foodcore.fishandchipsitem": "Ryba z frytkami",
+    
+    // mutton
+    "_comment": "mutton",
+    "item.pamhc2foodcore.groundmuttonitem": "Mielona baranina",
+    "item.pamhc2foodcore.muttonjerkyitem": "Suszona baranina",
+    
+    // rabbit
+    "_comment": "rabbit",
+    "item.pamhc2foodcore.groundrabbititem": "Mielony królik",
+    "item.pamhc2foodcore.rabbitjerkyitem": "Suszony królik",
+    
+    // potato
+    "_comment": "potato",
+    "item.pamhc2foodcore.butteredbakedpotatoitem": "Pieczony ziemniak z masłem",
+    "item.pamhc2foodcore.mashedpotatoesitem": "Tłuczone ziemniaki",
+    "item.pamhc2foodcore.friesitem": "Frytki",
+    "item.pamhc2foodcore.potatochipsitem": "Chipsy ziemniaczane",
+    "item.pamhc2foodcore.potatosoupitem": "Zupa ziemniaczana",
+    
+    // carrot
+    "_comment": "carrot",
+    "item.pamhc2foodcore.glazedcarrotsitem": "Zeszklone marchewki",
+    "item.pamhc2foodcore.carrotsoupitem": "Zupa marchewkowa",
+    
+    // beet
+    "_comment": "beet",
+    "item.pamhc2foodcore.pickledbeetsitem": "Kiszone buraki",
+    
+    // pumpkin
+    "_comment": "pumpkin",
+    "item.pamhc2foodcore.pumpkinsoupitem": "Zupa dyniowa",
+    
+    // sugar
+    "_comment": "sugar",
+    "item.pamhc2foodcore.caramelitem": "Karmel",
+    "item.pamhc2foodcore.caramelappleitem": "Jabłko w karmelu",
+    "item.pamhc2foodcore.marshmellowsitem": "Pianki cukrowe",
+    "item.pamhc2foodcore.marshmellowchicksitem": "Kurczaki z pianki cukrowej",
+    "item.pamhc2foodcore.cottoncandyitem": "Wata cukrowa",
+    "item.pamhc2foodcore.gummybearsitem": "Misiowe żelki",
+    "item.pamhc2foodcore.jellybeansitem": "Żelki fasolkowe",
+    
+    // misc
+    "_comment": "misc",
+    "item.pamhc2foodcore.cookingoilitem": "Olej",
+    "item.pamhc2foodcore.vinegaritem": "Ocet",
+    "item.pamhc2foodcore.freshwateritem": "Świeża woda",
+    "item.pamhc2foodcore.freshmilkitem": "Świeże mleko",
+    "item.pamhc2foodcore.saltitem": "Sól",
+    "item.pamhc2foodcore.stockitem": "Bulion",
+    
+    // generic food
+    "_comment": "generic food",
+    "item.pamhc2foodcore.fruitpunchitem": "Poncz owocowy",
+    "item.pamhc2foodcore.stewitem": "Gulasz",
+    "item.pamhc2foodcore.bakedvegetablemedlyitem": "Pieczone ważywa",
+    "item.pamhc2foodcore.fruitsaladitem": "Sałatka owocowa",
+    "item.pamhc2foodcore.meatloafitem": "Pieczeń rzymska",
+    "item.pamhc2foodcore.p8juiceitem": "Sok P8",
+    "item.pamhc2foodcore.fruitcrumbleitem": "Deser owocowy z kruszonką"
+}
